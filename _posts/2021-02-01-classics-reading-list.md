@@ -8,7 +8,11 @@ categories: classics
 
 # Listing of Classics
 
-Studying the Classics is really about studying how networks of scholars work asynchronously over generations to think and build knowledge. A large populations of scholars have been compiling reading lists of the Classics for at least 500 years ... even before the advent of the printing press, a few scholars with access to the hand-copied materials have been doing the same for thousands and thousands of years ... and, as with the rabbinical study of the Torah, the annotated curation of the reading list itself adds insight to the study of the classics ... so when we study the Classics, it's really a meta-thing.  
+***Studying the Classics is really about studying how networks of scholars work asynchronously over generations to think and build knowledge.*** Perhaps, you could safely avoid reading the Classics altogether, because the Classics have affected everything about the pedagogical noosphere for many centuries. Thus, almost all education is going to influenced by regurgitated material from the Classics. 
+
+*So it is NOT that the Classics are the orignal source of knowledge or even that they have been proven right. The REASON to study the Classics and experts on the Classics is undertand how networks of human scholars digest content and ideas.* ***It's entirely a META-knowledge thing.*** 
+
+A large populations of scholars have been compiling reading lists of the Classics for at least 500 years ... even before the advent of the printing press, a few scholars with access to the hand-copied materials have been doing the same for thousands and thousands of years ... and, as with the rabbinical study of the Torah, the annotated curation of the reading list itself adds insight to the study of the classics ... so when we study the Classics, it's really a meta-thing.  
 
 As with today's modern AWESOME pattern for code repositories, book clubs and reading lists show us that a PUBLIC reading list becomes much more than just a list of things to read ... people become INVOLVED in the process or sharing ideas with others and THINKING about ideas, rather than just turning on the television and swallowing content.
 
