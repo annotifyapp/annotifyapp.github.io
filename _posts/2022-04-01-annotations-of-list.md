@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Annotations Are Necessarily Social"
-date:   2022-01-01 4:30:00
+date:   2022-04-01 4:30:00
 categories: classics
 ---
 

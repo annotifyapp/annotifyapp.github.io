@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Annotated Curated Listification"
-date:   2020-08-31 4:30:00
+date:   2022-02-01 4:30:00
 categories: template
 ---
 
