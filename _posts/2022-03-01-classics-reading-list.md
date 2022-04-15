@@ -1,22 +1,28 @@
 ---
 layout: post
-title:  "Classics Reading List"
+title:  "The Secret Sauce of Annotify.App is Refined From the Classics"
 date:   2022-03-01 4:30:00
 categories: classics
 ---
 
 
-# Listing of Classics
+# Meta-Knowledge and Networks of Scholars
 
-***Studying the Classics is really about studying how networks of scholars work asynchronously over generations to think and build knowledge.*** Perhaps, you could safely avoid reading the Classics altogether, because the Classics have affected everything about the pedagogical noosphere for many centuries. Thus, almost all education is going to influenced by regurgitated material from the Classics. 
+***Studying the Classics is really about studying how networks of scholars work asynchronously over many generations upon generations to think and build knowledge.*** 
 
-*So it is NOT that the Classics are the orignal source of knowledge or even that they have been proven right. The REASON to study the Classics and experts on the Classics is undertand how networks of human scholars digest content and ideas.* ***It's entirely a META-knowledge thing.*** 
+Perhaps, anyone could safely avoid reading the Classics altogether, because the Classics have affected everything about the pedagogical noosphere for many centuries. Thus, almost all education is going to influenced by regurgitated material from the Classics. 
 
-A large populations of scholars have been compiling reading lists of the Classics for at least 500 years ... even before the advent of the printing press, a few scholars with access to the hand-copied materials have been doing the same for thousands and thousands of years ... and, as with the rabbinical study of the Torah, the annotated curation of the reading list itself adds insight to the study of the classics ... so when we study the Classics, it's really a meta-thing.  
+So it is NOT that the Classics are some orignal source of knowledge. It's not even that they have endured because the lessons proven to be valuable, timeless and universally applicable. *The reason FOR US to study the Classics and experts on the Classics is undertand how networks of human scholars digest content and ideas.* ***Digging through the ruins of great societies is entirely a META-knowledge cultural anthropological sort of thing.*** 
+
+Large populations of scholars have been compiling, annotating and prioritizing reading lists of the Classics for at least 500 years ... that's the secret sauce we are after for ANNOTIFY.app
+
+Even before the advent of the printing press, a few scholars with access to the hand-copied materials have been doing the same for thousands and thousands of years ... and, as with the rabbinical study of the Torah, the annotated curation of the reading list itself adds insight to the study of the classics ... so when we study the Classics, it's really a deep knowledge, understanding how models of human thinking have been trained for centuries meta-thing.  
 
 As with today's modern AWESOME pattern for code repositories, book clubs and reading lists show us that a PUBLIC reading list becomes much more than just a list of things to read ... people become INVOLVED in the process or sharing ideas with others and THINKING about ideas, rather than just turning on the television and swallowing content.
 
-## Readers think; readers who discuss what they think are the leaders who friends look to.
+## It's the social opinions, stupid.
+
+It always has been. Readers think; readers who discuss what they think are the leaders who friends look to.
 
 The world is full of new thinking leaders and new social groups of reading, thinking leaders ... it's possible to rapidly surmise whether someone is a thinker worth paying attention to. I think I will try to follow along with Tommy Collison's [Great Books Program](https://tommycollison.com/greatbooks) ... I will not exactly promise to even try keeping up with Tommy, but I will admit to expecting big things from him and those around him at [LambdaSchool](https://lambdaschool.com/). 
 
