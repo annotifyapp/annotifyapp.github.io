@@ -1,21 +1,21 @@
 ---
 layout: page
-title: Ventures
-permalink: /Ventures/
+title: Projects
+permalink: /Projects/
 ---
 
 
-***Venturing*** is the process of engaging the world by exploring possible business (ie, self-sustaining ventures with products), creative or scientific research or different open source venture philantropies.
+Developing the earliest of early stage project notetaking is the process of engaging the world by exploring possible business (eg, a self-sustaining ventures with products or grant funding), connections or CRM networking in the world of creative or scientific research or possibly something like different open source venture philantropies.
 
-# Listing of ventures
+# Listing of projects
 
-Our aim is to have roughly 125 ideas in the hopper, to have 25 that we work on at least once a month, to have five that we touch once a week and to have ONE main venture that we are focusing on.
+Our aim is to have roughly 125 ideas in the hopper, to have 25 that we work on at least once a month, to have five that we touch once a week and to have ONE main venture that we are focusing on ... we might obtain a URL for each one ... but maybe not.
 
 1) SQL.ag
 
 2) DIFFversity
 
-3) ENGRco
+3) ENGR.co
 
 4) NOSE.life
 
