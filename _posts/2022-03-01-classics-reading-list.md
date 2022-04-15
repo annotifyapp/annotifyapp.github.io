@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Secret Sauce of Annotify.App is Refined From the Classics"
+title:  "Secret Sauce Refined From the Classics"
 date:   2022-03-01 4:30:00
 categories: classics
 ---
