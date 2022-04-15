@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MarkBruns</title>
+    <description>A convoluted collection of bad habits which I indulge as they strangle me per XKCD 1579</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+<<<<<<< HEAD
+    <pubDate>Fri, 09 Feb 2018 22:52:35 -0600</pubDate>
+    <lastBuildDate>Fri, 09 Feb 2018 22:52:35 -0600</lastBuildDate>
+    <generator>Jekyll v3.7.2</generator>
+=======
+    <pubDate>Tue, 06 Mar 2018 12:16:24 -0600</pubDate>
+    <lastBuildDate>Tue, 06 Mar 2018 12:16:24 -0600</lastBuildDate>
+    <generator>Jekyll v3.7.0</generator>
+>>>>>>> master
+    
+      <item>
+        <title>Mere Movements</title>
+        <description>&lt;p&gt;Whether we want to admit it or not, we are members of different movements.  Just as “no man is an island” or we all have circles of old friends, close family members, key co-workers, professional colleagues and next-door neighbors who have an undue influence on our thinking. And, in turn, we have an undue influence on those people.  It does not stop there, of course, there are also movements that we pay attention to and participate in (e.g., attend conferences, read/comment upon contribute to peer[-reviewed] publications/blogs/social media groups) that involve similar impacts upon our worldview. Of course, we might not behave like zealots – we might be very subtle in our approach … we probably try to avoid “drinking the koolaid” when it comes to extreme or dangerous views … but there are still “churches” we regular attend, either physically or increasingly virtually.  Human beings are gregarious animals – we cannot NOT have human connections and this includes movements.&lt;/p&gt;
+
+&lt;p&gt;Any population of groupthinkers can imagine that they have created a lasting movement, because many mere movements are pretty good at listening to and believing in their own propaganda. Many so-called “movements” are FAR from genuine movements or legit movements, but instead are moderately-orchestrated PR, fabricated campaigns or even fashionable groupthink emanating from the world’s echo chambers such as Silicon Valley, Wall Street or Washington DC … this is done because many advertising/PR professionals and propagandists misunderstand the lessons (eg that Rome, or the Roman Empire or the population of Romans, was responsible for the spread of Christianity) from the most successful movement in history, Christianity … without understanding anything about the success of populations who adopted Christianity, if only because of Christianty’s secular values, eg living according to the Golden Rule or trying to think Win-Win in all dealings with other people … rather than those cultures that did not, eg continued to take slaves, exploit others or venerate those lived according to a strictly or myopically selfish &lt;em&gt;me first&lt;/em&gt; or &lt;em&gt;I-win-You-lose&lt;/em&gt; morality. In other words, legitimate movements grow and gain momentum because those movements have a positive impact upon the participants.&lt;/p&gt;
+
+&lt;p&gt;People might be “converted” being believers, but they remain believers and attract more converts because those people are more successful than their contemporaries and the most successful movements are long-term selfish or greedy in the sense that Win-Win thinking “expands the pie” and benefits everyone. Whether you’ve ever read / listened to C.S. Lewis’s Mere Christianity or not … and you should, just to understand the movement. It’s not just because C.S. Lewis is easily at least 100X a better writer than you will ever be, but because you should understand exactly what Christianity or the Christian movement actually is, rather than what you imagine the movement is about.  Spending a few hours reading or listening to Mere Christianity will not convert you into a Christian – it is MERELY about clearing up your misperceptions about what participants in the Christian movement actually [claim to] believe and do not believe. Christianity succeeded as a movement because its cultural values tended to make Christian cultures more successful. Of course, there are pathological movements that extremely jealous of the success of other movements.  This is why, Christianity is often attacked because individual Christians are rather obviously imperfect and particularly imperfect in actually consistently able to follow the teachings of Christ and thus are far from free from sin and very un-Christ-like.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 28 Feb 2018 22:30:00 -0600</pubDate>
+        <link>http://localhost:4000/networking/2018/02/28/Mere-Movements.html</link>
+        <guid isPermaLink="true">http://localhost:4000/networking/2018/02/28/Mere-Movements.html</guid>
+        
+        
+        <category>Networking</category>
+        
+      </item>
+    
+      <item>
+        <title>Meltdown, Spectre and other viruses</title>
+        <description>&lt;p&gt;I like magic as much as anyone else … and I get how features have a way of becoming very useful, then maybe even SEEM essential as developers find ways to add nice things … but the various forms of magic offered by Windows (Microsoft), iOS (from Apple), FireOS (from Amazon), Chromium (from Google), React (Facebook) are VIRUSES … viruses set up to track user behavior, mine descriptive economic data and either use that data or sell it … becoming the basis of most of the market capitalization of $MSFT, $AAPL, $AMZN, $GOOG and $FB WHILE ensuring that consumers pay for the devices, the power to run the devices AND the bandwidth that the data that is harvested.&lt;/p&gt;
+
+&lt;p&gt;In a nutshell, it’s not Meltdown and Spectre and other viruses that have been implicated as the bad guy … it’s that there’s way too much magic SHIT running in the background tracking users … and most of that stuff comes from the infrastructure that provides the features that consumers imagine to be part of a modern user interface, ie definitely NOT the Unix command line.&lt;/p&gt;
+
+&lt;p&gt;In other words, there’s a little secret that nobody will tell you about Net Neutrality … it’s not YOUR bandwidth hoggery of data flows that is the real problem and it’s also probably not the quality of service or &lt;em&gt;size of the pipe&lt;/em&gt; from your ISP … the PROBLEM … behind the concern over Net Neutrality OR the Meltdown, Spectre viruses is the REAL root cause of the problem.  Most of the features that you don’t really need, most of the so-called “continuous improvement” updates nothing other than complexifiers – they are not legit improvements or productivity enhancers. The root cause is YOU … your laziness … your needs for features that ensure that your complex system effectively prevents you from maintaining legit skills … you don’t really know what’s behind all of obfuscating magic because your skillset has atrophied.&lt;/p&gt;
+
+&lt;p&gt;So there too many crevices to hide in – there are layers upon layers upon layers upon layers of abstractions covering up the viruses and assorted tracking shit.  The people who have been trained to trust and DEPEND UPON obfuscations like Windows, iOS, FireOS, Chromium, React and other conveniences have &lt;em&gt;soooooooooo&lt;/em&gt; much &lt;strong&gt;complete&lt;/strong&gt; shit running in and underneath the abstractions built on abstractions built on abstractions built on abstractions … those people are at risk because they trust crap that is built on &lt;strong&gt;&lt;em&gt;complete shit all the way down&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Since the real driver behind ALL of this abstraction is that somebody really, really, really wants YOUR data …maybe it’s time for you to look at the infected boil caused by all of the data tracking toxins … doing so will only be moderately painful – mostly, it will open your eyes and get you to start asking questions … if you have not already done so recently, do a &lt;a href=&quot;https://datadetox.myshadow.org/detox&quot;&gt;an eight-day digital detox&lt;/a&gt; …&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://datadetox.myshadow.org/detox/day1/1-make-a-fresh-start&quot;&gt;Clear your browser history and cookies&lt;/a&gt; …  &lt;a href=&quot;https://datadetox.myshadow.org/detox/day1/4-internet-does-not-forget&quot;&gt;clean up your cloud storage&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://support.mozilla.org/en-US/kb/add-or-remove-search-engine-firefox&quot;&gt;Ditch Google as your primary search engine&lt;/a&gt; … if you primarily go to the Wikipedia when you google something, use Wikipedia search … if Amazon, use Amazon search … there are different ways to do it, but with Firefox, using different search engine is as easy as using different keywords, like “g:” or “b:” or “t:” or “y:” for Google, Bing, Twitter or Yahoo, respectively … but ditch Google as your primary search engine, because Google adds tracking gunk … forget what you once thought about Google’s “Do No Evil” policy – Google has re-defined what Evil means.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://datadetox.myshadow.org/detox/day3/2-flush-out-public-data&quot;&gt;Flush out the barnacles that Facebook has attached to your tail&lt;/a&gt; … log into Facebook and go to &lt;em&gt;Settings &amp;gt; Privacy&lt;/em&gt; and look over everthing and opt for the minimal possible exposure, then &lt;em&gt;Setting &amp;gt; Timeline and Tagging&lt;/em&gt; to look over everything and again opt for not being somebody else’s pawn … go to the &lt;em&gt;Activity Log&lt;/em&gt; and clean it up … don’t tag people without a damned good reason … instead of taking picture of your head, every so often take a &lt;a href=&quot;https://dataselfie.it/&quot;&gt;data selfie&lt;/a&gt; to see how your postings and comments appear to others – if you don’t like what you see, then it’s up to you to change you.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Spend some time getting REALLY familiar with everything and ALL of the different setting on your browser … then look at other browsers … then spend more time comparing browsers and looking even more critically again … THEN &lt;a href=&quot;https://panopticlick.eff.org/&quot;&gt;analyze and compare how well your different browsers and the add-ons you have installed protect you against online tracking techniques&lt;/a&gt; … &lt;a href=&quot;https://datadetox.myshadow.org/detox/day4/3-detox-browser&quot;&gt;detox your browsers&lt;/a&gt; … add spyware/tracking blockers like &lt;a href=&quot;https://www.eff.org/privacybadger&quot;&gt;privacy badger&lt;/a&gt; and &lt;a href=&quot;https://www.eff.org/https-everywhere&quot;&gt;ensure your communication is encrypted&lt;/a&gt; … revisit &lt;a href=&quot;https://panopticlick.eff.org/&quot;&gt;Panopticlick&lt;/a&gt; and then think about what else you could do.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Be aware of the &lt;a href=&quot;http://architectureofradio.com/&quot;&gt;architecture of radio waves&lt;/a&gt; around you. When you can, SHUT OFF your phone and all other devices – if at all possible, block off periods of the day, when people DO NOT contact you … it’s not just the radio waves, it’s that you don’t need the interruptions. There are times when you have to be available – there are times when you don’t. When you can, break the cycle of being always tethered and available for contact. Reduce how much your phone broadcasts or receives data. Change the names on your devices; don’t allow apps to track your location without a damned good reason. Deny permissions to apps until after you PROVEN to yourself a few times that you will really NEED the apps to have permissions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Routinely go through and 5S your machines … unless you’ve recently done this, it’ll mean UNINSTALLING most of the software on your computer; likewise, UNINSTALL most the apps on your phone … keep ONLY the ones that you DEPEND upon at least once a month. If you don’t NEED the app, stop being tracked by it, stop squandering your bandwith on the updates, stop allowing it to get in the way of what you need. Brutally constrain the permissions of the apps that you think you need but only occasionally use … it’s very quick and easy to change permissions, when the NEED arises … and you when find that you hardly ever actually need the app, you can bury an OCCASIONALLY needed app in a folder so that it stays out of the way.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If &lt;em&gt;going cold turkey&lt;/em&gt; is the type of thing that works for you, you can stop using Facebook and Google entirely … otherwise, try to successively, each day, use Facebook and Google half as much as you used them the day before … the point is to get to the point where you are MUCH, MUCH, MUCH more mindful and careful about what data you ever furnish to Facebook and Google … if you will need to use these things constantly for a project, eg for background research for a novel you’re writing, you may want to set up an alter ego personna for that project.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Look back through this list and brainstorm the OTHER places where data is being collected on you and things that you need to tighten up … it’s not just Twitter, LinkedIn, Dropbox, Skype, iCloud, or just the other services you use – and not just hardware such as your wifi router or your vehicle – it’s not just your utility providers or your furnace or your appliances or your equipment or all kinds of IoT devices … you should get a better idea of WHO is tracking you and WHY they are doing it.  You should ask yourself when you gave them that right? Have they actually PAID you for providing power and other resources OR for the right to have access to your life … or did they just promise gee-whizzery, some nifty features you will realistically never ever use and then deliver all kinds of obfuscations and MAGIC?&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Wed, 31 Jan 2018 22:30:00 -0600</pubDate>
+        <link>http://localhost:4000/networking/2018/01/31/Alpine-Containers.html</link>
+        <guid isPermaLink="true">http://localhost:4000/networking/2018/01/31/Alpine-Containers.html</guid>
+        
+        
+        <category>Networking</category>
+        
+      </item>
+    
+      <item>
+        <title>Git Deep</title>
+        <description>&lt;p&gt;I have been contemplating various educational opportunities in the study, experimentation and application of deep learning and data engineering.  One thing is certainly apparent – I will never have a deep enough understanding of what might be possible with Git … even if I knew all of the commands, backwards, forwards, in/out and upside down … even if was intimately familiar with all of the code – I still would not have a deep enough understanding of what might be possible with Git … because it is impossible to understand how people will use it and how it will shape their communication and collaboration as groups of people use Git … it is always possible to go deeper.&lt;/p&gt;
+
+&lt;p&gt;As one should guess, whenever there’s a solid proven NEED for something, the free market provides it. And that could not be more true than in the realm of education, particularly advanced technical education. The field is competitive and getting much better.  As a result, there’s no real shortage of very affordable, extremely high-quality, highly accessible low-cost “nanodegree” programs with excellent instructors, solid curricula and good opportunities for mentorship and all kinds of opportunities for comradeship and collaborative hackery with other students. Udacity, Fast.AI, Dataquest.IO are some examples in the data science and ML/AI realm; there are others and there will be more and even better ones – but since most of serious work with data involves all kinds of sysadmin tasks to accomplish the real work of data in data wrangling, munging and the time-honored chore of &lt;em&gt;getting the boss’s computer set up so that he can figure out how to play along with the analysis in his office on his machine&lt;/em&gt; … so devops and sysadmin courses are maybe even more necessary than the data science or ML stuff, but there are things like O’Reilly’s SafariOnline and Cloud Academy and a plethora of outstanding choices for that.&lt;/p&gt;
+
+&lt;p&gt;Of course, the very best of these opportunities are completely free … but difficult and challenging, as REAL education is supposed to be … they come in the build-your-own-with-what-you-find-and-hack flavor … for centuries, this has been what the best technical programs have been about. People who are really serious and passionate about learning something ultimately have to go to this school, too … even if they go to an extremely expensive university to hold their hand and assure them while they are struggling to learn. Learning, REAL learning, is tough and can be a real chore because it necessarily involves rewiring your brain … if you are not uncomfortable, maybe even filled with angst and frustration at times, you are not actually learning – you’re just being entertained and more subtly indoctrinated as you are soothed with the false comfort that you are in a safe place of higher learning, surrounded by people pursuing knowledge.&lt;/p&gt;
+
+&lt;p&gt;I have gone from thinking [about education] that &lt;em&gt;there ought to be a better, easier, cheaper way&lt;/em&gt; to &lt;em&gt;That’s flat out wrong! Lousy, difficult and expensive DRIVES innovation and innovative thinking and stimulates people who can actually learn to REALLY learn.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Here are some of the other different things that I am thinking about … I will not claim that this is complete, coherent, well-articulated logical progression … it’s simply a collection of thoughts that drive my thinking on the business of offering data science as a service.  These are just some things that I am thinking about.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Measurement systems analysis and accuracy of data&lt;/p&gt;
+
+    &lt;p&gt;Just because a sensor is providing a stream of data, very little work is ordinarily done to address the repeatability, reproducibility, bias, stability and linearity of the data … essentially, most deep learning practcioners simply rely on more data gathered over a longer period of time. This sort of works … the results might appear impressive [and generally are] … but but we still have the old garbage in, garbage out problem.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Data wrangling, munging and preparation.&lt;/p&gt;
+
+    &lt;p&gt;Roughly 80% of the work involved in data science is getting the data to be free from obviously bad data and outliars and formatted in a way that makes the data amenable to analysis.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Setting up systems, getting past dependency problems and being able to share the data in a collaborative, intereactive environment.&lt;/p&gt;
+
+    &lt;p&gt;An immense amount of work has been done here … but there’s not really any end to the opportunities to make it even simpler, more reliable and robust … essentially, it’s still a matter of disruption … but continous improvement also matters – it’s important to complete reinvent the architecture as well as generally simplify and re-factor the code base to make the end experience more reliable and robust.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Data literacy is almost necessarily abysmal; this is the true digital divide.&lt;/p&gt;
+
+    &lt;p&gt;The fix for ignorance is ignorance.  That might not make sense immediately.&lt;/p&gt;
+
+    &lt;p&gt;Companies will always exploit ignorance to sell things to people that are not exactly what they need. Most of the employment opportunities in data science and deep learning are still ultimately about convincing people to do something that is &lt;em&gt;almost&lt;/em&gt; in their best interest, but isn’t really exactly about what is in their interest. Instead in the interest of behind the scenes work with an aim of leading the audience to a conclusion that the someone behinds the scenes wants. Consider the example of ad/product recommendation engines that feed on data like browser cookies and other tracking data … data [and selling data] is what pays the bills for companies like Google, Apple, Facebook and Amazon. Many services or utilities that people rely upon would not be monetizable and would likely not exist without this exploitation. But, generally over the very long pull of time, people migrate to those things where the exploitation tends to be more symbiotic, less intrusive or disruptive and less [overtly] manipulative.  In other words, we will not change data literacy significantly; people are not data literate because they have other things going on in their lives and the &lt;em&gt;view is not worth the climb&lt;/em&gt;. What will change over time is how many options people have. Ultimately, the world benefits by everyone having more alternative to make better choices … that comes about as competition drives out the communication channels that are more problematic, more exploitative.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Human life and the economic ecosystems that sustain human life in the 21st century is more about data and the transformation of data into productive knowledge and business intelligence.&lt;/p&gt;
+
+    &lt;p&gt;Politicians, policymakers and journalists don’t really get this, but criminals, terrorists and enemies of freedom certainly understand this in detail … probably better than most other people, even law enforcement and security professionals do. The overall state of information security is &lt;strong&gt;&lt;em&gt;maybe&lt;/em&gt;&lt;/strong&gt; getting worse or not keeping up and &lt;a href=&quot;https://www.wired.com/story/worst-hacks-2017/&quot;&gt;teams of hackers are getting enormously more sophisticated at exploiting the typical careless nonchalance or semi-disregard for information security that most have&lt;/a&gt;. Which is another reason why the popular, reported, traditional news topics are a complete DISTRACTION … just as much as NFL football and Netflix are not much more than escapism [although, in certain realms of human existence, the need for escapism might be real enough]. The tracking that matters in the digital realm is not really the stuff the NSA or some other government agency Big Brother does … what really matters is everything ELSE that is tracked by the most shrewd digital hunter-gatherers who employ the best minds of our generation … everything about our assumptions, perceptions, behaviors, choices, attitudes, psychological precursors that show up in our economic lives or tendencies to purchase.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Collaborative data science as a service [including related skills like security and reliability engineering] on a JIT basis has the  potential to radically accelerate the negotiation or speed the convergence of best practices.&lt;/p&gt;
+
+    &lt;p&gt;The collaboration possible in open source communities makes some very exciting and productive alternatives possible. It is possible to involve several different resources which are the very best in the world for relatively small assignments … and those resources can be involved simultaneous in different projects. Better communication and collaboration technologies mean that it isn’t necessary to settle on who is physically available. Additionally, criminals, terrorists and enemies of freedom have one distinct disadvantage … they MUST hide what they are doing; significant energy must be expended to ensure their privacy; they absolutely must operate at very high levels of secrecy … most of the work in the open source realm does not depend upon these levels of secrecy or privacy.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;It is not necessary to trust an open source developer – or someone collaborating on Git repository … it is only necessary to trust the soundness of the ideas put forth.&lt;/strong&gt;  That is significant because it should significantly lowers the barriers and uncertainties of the recruitment process. Moreover, it should be possible to recruit more talent than might seem to be needed in order to get more ideas, to optimize team interaction and team productivity.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tools that allow managers or project leaders to see who has contributed and how make it possible to determine the productivity of a developer … and ultimately, productivity determines compensation.&lt;/p&gt;
+
+    &lt;p&gt;Marx was somewhat right in his critique of capitalism. He was definitely right that capitalists will compete to sell the revolutionaries the rope that the revolutionaries use to hang the capitalists … even Schumpeter recognized that capitalists, particularly monopolists, have a fundamental blind spot when it comes to how they accelerate the creative destruction that leads to their demise. Nobody should ever worry too much about the creative destruction of monopolies … humans are inventive, even if only WHEN they NEED to be. But Marx was right [at his point in time] about how capitalists exploit cheap labor. But that is only because there’s ALWAYS a huge surplus of cheap, unskilled, inattentive, hate-addled labor … when there is a shortage of capital, as there generally is, capital gets to call the shots. That doesn’t change under communism – the authoritarian dictators that control the capital are even more brutal at calling the shots than capitalists. Regardless of the economic system, the benefits will tend to flow to the resources that are most productive … but we should remember that the world is completely ruled by violence, especially the firmly-entrenched, institutional violence of the state.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;It is NECESSARY to always remember that productivity drives compensation to talent or return on any asset.&lt;/strong&gt; This is a matter of thinking, &lt;em&gt;“How can I make my talents, skills, capital and other resources the most productive in the highest and best uses of those resources?”&lt;/em&gt;  In a violent, cruel and nasty world, it is particularly necessary to be more creative and optimistic, to look harder for better opportunities and to work more diligently on those things that will make what you have more productive. Of course, that means not quitting or getting some sort of nihilistic death spiral, but it also involves doing something that is scarce because it is HARD to do, but doing something that is really needed and what is really needed most is always changing, even if it doesn’t change that fast. There are no easy answers, but it is clear that it is always necessary to resist following the herd too much and becoming part of the oversupply of unneeded resources. Of course, it is even more necessary to resist being filled with hatred or jealousy because when you are blinded by those emotions, you become a tool of those who depend upon the hate-filled, covetous, jealous mob to build the institutional violence of the state.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Sun, 14 Jan 2018 22:30:00 -0600</pubDate>
+        <link>http://localhost:4000/networking/2018/01/14/Git-Deep.html</link>
+        <guid isPermaLink="true">http://localhost:4000/networking/2018/01/14/Git-Deep.html</guid>
+        
+        
+        <category>Networking</category>
+        
+      </item>
+    
+      <item>
+        <title>Is Kubernetes the new Linux?</title>
+        <description>&lt;p&gt;Given what Linux has been for the last 25 years, this would be a mighty big claim. Does it have any merit? Some pretty smart people think so … but then again, one should ALWAYS doubt the experts. Except that these experts are not just evangelists or tech journos or pundits or people who are trying to make names for themselves on the tech conf circuit by making a splash with outlandish &lt;em&gt;visionary&lt;/em&gt; claims … they are the engineers who actually the architect and engineers leading the projects that are delivering big results, ie largely anonymous tech nobobies that we actually count on every moment of our digital lives even though we don’t realize exactly what we’re counting on and why.&lt;/p&gt;
+
+&lt;p&gt;In a recent Open Source Summit of September 2017,&lt;a href=&quot;https://twitter.com/llunved&quot;&gt;Daniel Riek&lt;/a&gt;, Sr. Directory Systems Design &amp;amp; Engineering for Red Hat and leader on Red Hat’s container technology strategy and &lt;a href=&quot;https://www.projectatomic.io/&quot;&gt;Project Atomic&lt;/a&gt;, stated that containers and &lt;a href=&quot;https://kubernetes.io/&quot;&gt;Kubernetes&lt;/a&gt; are having a deep impact on the Linux operating system (OS) that goes well beyond just DevOps and and just cloud-native applications. The concepts of application-centric packaging, process isolation through Linux containers, and immutable infrastructure are shaking up the core traditions of today’s GNU/Linux operating systems. These concepts are also challenging the assumptions and approaches derived from the past 40+ years of work that originated with UNIX. The Linux distribution as we know it is coming to an end, and is being replaced by a new concept of containerized, multi-instance, multi-user applications, which can be deployed in scale-out environments.&lt;/p&gt;
+
+&lt;p&gt;In other words, software stacks have gotten to be too complex to be mapped onto a common monolithic namespace, so Kubernetes is effectively the new Linux … which would mean that we should not be surprised by the enormous amount of development activity swarming around the &lt;a href=&quot;https://github.com/kubernetes&quot;&gt;Kubernetes repositories&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 07 Jan 2018 22:30:00 -0600</pubDate>
+        <link>http://localhost:4000/networking/2018/01/07/Kubernetes-The-New-Linux.html</link>
+        <guid isPermaLink="true">http://localhost:4000/networking/2018/01/07/Kubernetes-The-New-Linux.html</guid>
+        
+        
+        <category>Networking</category>
+        
+      </item>
+    
+      <item>
+        <title>It time to really get after it on Git</title>
+        <description>&lt;p&gt;It WAS time to really get after it on Git a decade ago, now it REALLY is.&lt;/p&gt;
+
+&lt;p&gt;Git keeps surpassing expectations and changing how creative people collaborate.  Git is an EVEN bigger deal than Linus Torvalds imagined when it would be when he first developed Git … bigger than the founders of Github imagined it would ever be when they founded Github … bigger than pundits imagined when they reported on how almost all software developers were moving to Git.&lt;/p&gt;
+
+&lt;h1 id=&quot;git-is-not-just-for-code-git-is-distributed-version-control-for-all-collaborative-creative-content&quot;&gt;Git is not just for code, Git is distributed version control for ALL collaborative creative content&lt;/h1&gt;
+
+&lt;p&gt;Git does not care whether it is being used for managing human-readable code or managing large binaries, its support for large files means that it does not discriminate between types of files.&lt;/p&gt;
+
+&lt;h1 id=&quot;git-is-secure-not-perfectly-secure-but-probably-secure-enough&quot;&gt;Git is secure, not perfectly secure but probably secure enough&lt;/h1&gt;
+
+&lt;p&gt;SHA 1 and paying close attention to Git logs is not absolutely perfect, but it’s pretty damned good. The Git community is making Git more secure. Most importantly, it is important to use good practices and tools are available … no system of security is perfectly secure; even the best system of security is worthless if people do not actually use the tools and best practices that are available.&lt;/p&gt;
+
+&lt;h1 id=&quot;git-is-not-just-for-managing-collaboration-its-for-optimizing-collaboration&quot;&gt;Git is not just for managing collaboration, it’s for optimizing collaboration&lt;/h1&gt;
+
+&lt;p&gt;As far as one looks on the horizon, there’s no end to the better and better tools for better visibility into the details of collaboration, better optimization and tracking of code reviews, better code quality and all kinds of different metrics of effectiveness.&lt;/p&gt;
+
+&lt;h1 id=&quot;capable-mature-managed-and-optimized-professional-git&quot;&gt;Capable, mature, managed and optimized professional Git&lt;/h1&gt;
+
+&lt;p&gt;About half … maybe it’s still slightly less, maybe it’s slightly more … of the professional software development being done now uses Git. The adoption of Git is growing so it some might argue that the percentage is higher, but many still use Git because they have to, not because they understand why they really NEED to. Therefore, the biggest difficulty in using Git is cultural just as the biggest difficulty in writing well is not the problem with word processing tools but with use of the words and idioms in the language.  Thus, the main problem with Git is not a really technological problem or lack of features.&lt;/p&gt;
+
+&lt;p&gt;When everyone is more or less on the page Git-wise, Git immensely simplifies and improves the software development cycle, not just in enabling users to create, use, and switch between versions easily, but also to provide metrics and quantitatively improve processes. That is why it is so essential for a creative professional to really understand the basic Git model and overall Git workflow. That means developing a familiarity with the Git management concepts and commands to avoid the trip-ups and missteps that put off people from really using Git to track changes and work with branches in teams.&lt;/p&gt;
+
+&lt;p&gt;Fully leveraging Git’s full functionality means going beyond integrating Git in the workflow used by developers in popular software development toolchains&lt;/p&gt;
+
+&lt;h1 id=&quot;why-hasnt-mastering-git-been-one-of-the-priorities-of-anyone-involved-in-the-creation-of-creative-content&quot;&gt;WHY hasn’t mastering Git been one of the priorities of anyone involved in the creation of creative content?&lt;/h1&gt;
+
+&lt;p&gt;Good question. As another person who’s behind the curve on Git, I have absolutely NO good answer on that one … it happens. It is like the answer for why I don’t get up at 4:30 every single morning to do calisthenics to build my fitness and self-discipline. I dunno why I don’t do it. I should. I know that I should. But I haven’t. I just know that I should and need to. I cannot fix or redo the last decade, year, month or days – I can only fix today and work on it again tomorrow. I cannot fix or help other people, I can only work on myself and my example might matter to some but it won’t matter to most. But consistency matters going forward matters so much. It is important to just stay at it.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 31 Dec 2017 22:30:00 -0600</pubDate>
+        <link>http://localhost:4000/networking/2017/12/31/Get-After-Git.html</link>
+        <guid isPermaLink="true">http://localhost:4000/networking/2017/12/31/Get-After-Git.html</guid>
+        
+        
+        <category>Networking</category>
+        
+      </item>
+    
+      <item>
+        <title>Collaborative AI</title>
+        <description>&lt;p&gt;Collaborative artificial intelligence has emerged as one of my most intriguing and interesting &lt;a href=&quot;http://markbruns.github.io/philanthropy/mvp/opensource/2017/07/15/Venture-Philanthropy.html&quot;&gt;philanthropic venture&lt;/a&gt; areas … I believe that collaboration on HARD projects is necessarily about the physics of people or, more practically, about the physics of bringing people together, getting them “on the same page.” To some extent, this is about messaging systems and utilities like git repositories – in other words, it’s not necessarily about real time immediate messaging, although things like videoconferences can be part of it. Perhaps, the biggest need in Collaborative AI is just findability or search … to bring people together who are working on similar things, similar snippets of code, similar problems.&lt;/p&gt;
+
+&lt;p&gt;In other words, collaborative AI is not about people people collaborating on doing machine learning, deep learning, neural nets or other forms of artificial intelligence – it’s about using AI to facilitate qualifying collaborators and bringing people together to collaborate and providing the interface that gets out of the way so that people can collaborate … as if they are sitting next to one another, without requiring them to be sitting next to one another.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 14 Dec 2017 22:30:00 -0600</pubDate>
+        <link>http://localhost:4000/collaborativeai/2017/12/14/Collaborative-AI.html</link>
+        <guid isPermaLink="true">http://localhost:4000/collaborativeai/2017/12/14/Collaborative-AI.html</guid>
+        
+        
+        <category>CollaborativeAI</category>
+        
+      </item>
+    
+      <item>
+        <title>Distributed Security</title>
+        <description>&lt;p&gt;Distributed security is one of my &lt;a href=&quot;http://markbruns.github.io/philanthropy/mvp/opensource/2017/07/15/Venture-Philanthropy.html&quot;&gt;philanthropic venture&lt;/a&gt; areas … it involves a number of very, very basic things which people might not even regard as security issues, because they take them for granted … things like providing food, water, shelter, utilities and very basic and fundamental needs … communication phyical layers, software-defined radio, computing architecture and infrastructure, information security.  It also includes things like health, basic medical care, fitness, self-defense and very basic self-defense weapons manufacture. My thoughts on the distribution of security is inspired by Robert Heinlein who is rather famous for his views about how and why a human being should be able to some very fundamental and basic things.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 14 Nov 2017 22:30:00 -0600</pubDate>
+        <link>http://localhost:4000/distsec/2017/11/14/Distributed-Security.html</link>
+        <guid isPermaLink="true">http://localhost:4000/distsec/2017/11/14/Distributed-Security.html</guid>
+        
+        
+        <category>DistSec</category>
+        
+      </item>
+    
+      <item>
+        <title>Financial Technology</title>
+        <description>&lt;p&gt;Financial technology, or the technology of full, complete, quality-assured transactions is one of my &lt;a href=&quot;http://markbruns.github.io/philanthropy/mvp/opensource/2017/07/15/Venture-Philanthropy.html&quot;&gt;philanthropic venture&lt;/a&gt; areas … I am not especially interested in the dark voodoo world untraceable cryptocurrency … in fact, I think that much of the desire for products in that realm will never really be realized, except as elaborate traps to sucker criminals and those who wish to evade the law … I also am not convinced that cryptocurrencies will ever really replace the financial traffic handled by the likes of Visa, Mastercard, American Express and PayPal … if cryptocurrencies replace these dominant and entrenched mediums of exchange, it will be because cryptocurrencies offer something that is more convenient or somehow offers more utlity than simply paying with a credit card. In other words, credit cards will not be replaced because they are not hip or trendy – they will be replaced when something more convenient comes along … in the same way that credit/debit cards replaced paying for things with either wads of cash or checks – it was not because the cool kids were using credit cards.&lt;/p&gt;
+
+&lt;p&gt;Blockchain represents a opportunity to do more to capture more information and assure the quality of a transaction … it’s not about anonymity, it’s about everybody involved being assured that EVERYTHING about the transaction is &lt;em&gt;on the up and up&lt;/em&gt; while also assuring that people who are not involved in the transaction do not readily have access to specific details about detailed information of the transaction that are none of their business.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 14 Oct 2017 23:30:00 -0500</pubDate>
+        <link>http://localhost:4000/fintech/2017/10/14/Financial-Technology.html</link>
+        <guid isPermaLink="true">http://localhost:4000/fintech/2017/10/14/Financial-Technology.html</guid>
+        
+        
+        <category>FinTech</category>
+        
+      </item>
+    
+      <item>
+        <title>Lean Quality</title>
+        <description>&lt;p&gt;LEAN Quality, or the technology of the most efficient, highest possible quality and continuous improvement is one of &lt;a href=&quot;http://markbruns.github.io/philanthropy/mvp/opensource/2017/07/15/Venture-Philanthropy.html&quot;&gt;my philanthropic venture&lt;/a&gt; areas … removing waste is about higher quality, lower maintenance, more sublime, more natural existence … ideally, it is about an independent, creative way of life that costs nothing to maintain.&lt;/p&gt;
+
+&lt;p&gt;Obviously, that ideal may be unattainable, but it should not stop us from keeping our eyes on the goal, on what quality is and from LEANING up our processes as we work toward the goal. We should work at making our ways of life simpler, more creative and more in tune with natural processes, eg recreation through potager gardens with composted household waste to minimize the amount of packaging and extraneous processes necessary to sustain waste. The maintenance of our ways of life should be rewarding and fun in and of themselves.&lt;/p&gt;
+
+&lt;p&gt;Learning to see waste is a matter of thinking serious about the eight wastes of the D.O.W.N.T.I.M.E. acronym during our downtime … we should not think of waste as a crime or moral failure – instead we should look at it as an opportunity for improvement. Focusing on LEAN quality is a way to polish something that we are justifiable already proud of.&lt;/p&gt;
+
+&lt;h1 id=&quot;defects&quot;&gt;Defects&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Not understanding the requirements, or worse, just doing something before learning the requirements&lt;/li&gt;
+  &lt;li&gt;Producing the wrong thing or something that cannot be used without rework or re-conditioning&lt;/li&gt;
+  &lt;li&gt;Producing CRAP for a variety of reasons, eg not paying attention or keeping a process under tight control&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;overproduction&quot;&gt;Overproduction&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Producing something that will need to be disposed of [just for the sake of being productive]&lt;/li&gt;
+  &lt;li&gt;Producing something because it’s easier to keep drones busy and mindless than it is to manage creative people&lt;/li&gt;
+  &lt;li&gt;Producing more quantity rather than better quality or more difficult to produce more needed items&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;waiting&quot;&gt;Waiting&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Keeping people in limbo, possibly producing defects or overproducing something, while they wait for answer&lt;/li&gt;
+  &lt;li&gt;Not being respectful of others time, attention or their urgency but just keeping them waiting out of arrogance&lt;/li&gt;
+  &lt;li&gt;Waiting in traffic, in line; waiting for responses; waiting for feedback from a device or process&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;negativity&quot;&gt;Negativity&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Having the mindset of a Nihilist, rather than a Realist&lt;/li&gt;
+  &lt;li&gt;Not Listening, especially to others, but also to the process or to Nature&lt;/li&gt;
+  &lt;li&gt;Not using suggestions or ideas, but instead finding fault with the suggestor&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;transportation&quot;&gt;Transportation&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;All transport of people, products, commodities, liquids, fuel, power, information should be seen as a candidate for being a potential waste that could possibly to be eliminated through more mindful, disciplined consideration of logistics, JIT inventory control and on-site production practices.&lt;/li&gt;
+  &lt;li&gt;Transporting things to the wrong place at the wrong time is actually a defect in logisitics.&lt;/li&gt;
+  &lt;li&gt;Transport more of something than what is required is actually an overproduction problem because the excess material will have to be disposed of.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;inventory&quot;&gt;Inventory&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;All inventory should be seen as a candidate for being a potential waste that could possibly to be eliminated through more mindful, disciplined application of tighter inventory control and JIT production practices such as Kanban.&lt;/li&gt;
+  &lt;li&gt;Inventory that sits around for even a brief amount of time (ie enough to notice the existence of inventory) will degrade or will need significant amounts of investment (ie a controlled environment warehouse) to keep it in condition and from being stolen or damaged.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;movement&quot;&gt;Movement&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Staying busy or just doing something is either NOT using energy/resources to produce nothing or it is producing the wrong thing or overproducing, ie movement is NOT an indicator of production.&lt;/li&gt;
+  &lt;li&gt;Everyone performing a task should standardize on the very most efficient, very least cost, very most reliable form of movement and should competitively work at finding even more efficient, lower cost, more reliable standards.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;ego&quot;&gt;Ego&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We should aim for the most efficient, lowest cost, most reliable operation and take pride in this rather than any cleverness, extra features or fritterware or any other special flourishes which do not improve standard efficiency, lower standard cost or make the standard more reliable.&lt;/li&gt;
+  &lt;li&gt;ALL productive work and operational performance that happen primarily for the sake of vanity or showmanship are waste.&lt;/li&gt;
+  &lt;li&gt;There is plenty of opportunity to take pride in a flawless execution, a high quality product or a process that is more free from waste than any other similar process.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 14 Sep 2017 23:30:00 -0500</pubDate>
+        <link>http://localhost:4000/leanquality/2017/09/14/Lean-Quality.html</link>
+        <guid isPermaLink="true">http://localhost:4000/leanquality/2017/09/14/Lean-Quality.html</guid>
+        
+        
+        <category>LeanQuality</category>
+        
+      </item>
+    
+      <item>
+        <title>Education Technology</title>
+        <description>&lt;p&gt;Education technology, or the technology of assisting students in developing their skills in learning how to learn and continually improving their ability to learn how to learn is one of &lt;a href=&quot;http://markbruns.github.io/philanthropy/mvp/opensource/2017/07/15/Venture-Philanthropy.html&quot;&gt;my philanthropic venture&lt;/a&gt; areas … some of this is not really much more than in the formats for sharing ideas or executable notebooks to analyze data or various ways to improve channels for messaging and collaboration. A different facet of this involes natural language processing and computational forensics … for example, the work on the analysis of writing, not just for assessing comprehension but even what the choice of simple words like the choice of pronouns says about an author’s view of the world.&lt;/p&gt;
+
+&lt;p&gt;As a measurement engineer, one of my particular areas of technological interest involves assistive technologies and measurement technologies … I am referring to sensors and systems of sensours or things like virtual reality or augmented reality as well as EEG neuroheadsets, MRIs and various neuroimaging technologies. I really don’t know if these are really game-changing technologies or not – but they certainly are intriguing and they will be more interesting as they are rolled out to a much wider audience of early adopters and more people play with the technologies and find new uses for them. This takes time, or perhaps more accurately, it takes a lot of use and experimentation and crowd-driven inspiration of better use, but eventually we might see some really compelling uses for how people learn, share ideas, collaborate and how these uses change with aging, injuries or the use of different substances that change neurochemistry. For example, it has taken awhile to develop but there is now a robust and growing scientific literature about &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4052444/&quot;&gt;harnessing the power of event related [brain] potential (ERP) to study language, learning and development of the brain&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It is more clear than ever that it is no longer possible to think about the brain or neurological development as merely a sophisticated computer composed of circuits prefabricated by genes … in other words, the old educational paradigms that are based on the idea that education is as simple as coming up with a better classroom are blatantly flawed. Educational technologies certainly should not be about simply programming or indocintrating a young mind with the &lt;em&gt;proper knowledge&lt;/em&gt; … never mind that even a cursory consideration of history should tell us that we do not have the start of a beginning of a concept of a notion of what the &lt;em&gt;proper knowledge&lt;/em&gt; should be and we NEVER will have that knowledge.&lt;/p&gt;
+
+&lt;p&gt;The practical significance of the fact that we do not even really know that much about how learning happens yet is that there is more than enough for innovation and disruption in this realm.  We do know some things. We know that the humans beings who learn most are those who attempt to understand how others learn as they teach others. Human education is a deeply recursive, deeply collaborative, deeply adaptive topic and we should be learning throughout our entire lives, even if we learn most, learn fastest when we are younger. But as for all of humanity, we are still learning how to learn and the more that we recognize that education is about developing the skills to learn how to learn [throughout life], the more effective we will be in our attempts to educate and our attempts to develop educational systems and technologies. Our capacity to learn declines as we age, but it does not vanish … it does not fall off of a cliff or decline anywhere near that dramatically at any particular age … although one would think that if one looked at how our educational system is structured.  The nature of education changes … a baby takes in everything like a sponge and an old person [in looking back and reminiscing] integrates the different lessons of life, drawing deeper lessons and wisdom from the perspective of time … but the healthy approach is to keep learning until the end.&lt;/p&gt;
+
+&lt;p&gt;It is unfortunate that most education is not typically seen as being applicable to the real world … but that is a function of how we have structured our educational systems.  Education should make us more productive for the immediate task that we face tomorrow or a problem that we will have to tackle in the immediate more knowable future. A baby should learn how to face the next hour, then as a toddler begin learning things that will be necessary to be able to learn as rapidly as possible as in the next day or so with the adolescent learning things that will be of impact in the next week or so to the primary task of learning how to learn … but very early on, a human should learn how do things of practical significance, not to learn how to be the teacher’s pet or to earn praise, but instead learning how to troubleshoot, think critically and systematically step through practical problem-solving difficulties. If we indoctrinate children with anything it should be the notion that legitimate praise comes from practical achievement and that no one is entitled to phony encouragement. Another thing that should be part of the educational indoctrination is something about the practical half-life of the value [and often correctness] of education. The half-life of a serious (ie BS + MS) engineering education which takes about five years to achieve is about 10 years and this pattern holds for other pursuits as well – the significance of this is that a person must constantly be learning, throughout life, just to stay current.&lt;/p&gt;
+
+&lt;p&gt;The point is that educational technology matters for ALL age groups … it’s a sign of pathologically WRONG and dangerously ignorant mindset when we hear people say that we invest in education because &lt;em&gt;it’s for the children&lt;/em&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 14 Sep 2017 23:30:00 -0500</pubDate>
+        <link>http://localhost:4000/edtech/2017/09/14/Education-Technology.html</link>
+        <guid isPermaLink="true">http://localhost:4000/edtech/2017/09/14/Education-Technology.html</guid>
+        
+        
+        <category>EdTech</category>
+        
+      </item>
+    
+  </channel>
+</rss>

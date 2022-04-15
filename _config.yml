@@ -1,1 +1,9 @@
-theme: jekyll-theme-leap-day
+# Site settings
+title: MarkBruns
+email: MarkBruns@MarkBruns.com
+description: ToDo / Newsreader / Annotator
+twitter_username: MarkBruns
+github_username:  MarkBruns
+
+# Build settings
+markdown: kramdown
