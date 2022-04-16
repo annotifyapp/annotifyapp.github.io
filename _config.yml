@@ -1,9 +1,9 @@
 # Site settings
 title: Annotify.app
 email: MarkBruns@MarkBruns.com
-description: Research and exploring of best tools available for ToDoList / Annotated Bibliography / Research Journaling / RSS Newsreader
+description: An AWESOME checklist annotation workflow, but simpler perhaps ... for the not yet Git-enlightened.
 twitter_username: MarkBruns
-github_username:  MarkBruns
+github_username:  annotifyapp
 
 # Build settings
 markdown: kramdown
