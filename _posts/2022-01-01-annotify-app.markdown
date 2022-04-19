@@ -1,11 +1,23 @@
 ---
 layout: post
-title:  "The Workflow of the Annotify App"
+title:  "Git-Centric Annotify App Workflow"
 date:   2022-01-01 4:30:00
 categories: template
 ---
 
 
+
+# Annotify.app sits on the massive shoulders of the expanding Git multiverse
+
+*The theology of Annoity.app is that Git was like the Big Bang; in this theology, the Git BigBang is still being developed to be Bigger Bangier Git.*
+
+Annotify exists in order to be able to focuse better ... by more efficiently collect/stash notes on different ideas to develop a better workflow in Git repositories which can have notification and search triggers so that somebody can remember/restart the idea. Annotify, in its current version is mostly just a collection of open source Git hacks and best practices -- ultimately, as we get to release 0.0.0 of an actual app, we will attempt to automate these hacks with code. 
+
+# Annotify.app is a list attempting to evolve into a development community
+
+***Annotify.app will ALWAYS be about what OTHER people are developing.*** Annotify.app will NEVER seek to be the center of attention ... attention is for the AWESOME devs extending workflow tools that use Git. By the most important founding principle of its original design, Annotify.app cannot possibly outshine Git.  If you prefer a different workflow on the surface, anybody can get down to business, thinker, design and ultimately implement that workflow ... underneath everything it will still use some form of Git, will like use the best Git host going and, if your following the Annotify.app model, your data will behave like it's from a Git repository ... the most ambitious goal for something annotify.app is to *HELP* organize, coordinate, prioritize annotations to events from ALL email, ALL txt, ALL Slack and ALL messaging/CRM programs while also exposing hooks, tags, indices to search by others with authenticated access to that dataflow.  
+
+The point of leaning on Git this heavily is that software has eaten the world and Git-based tools have eaten software ... accordingly the talent pool of software devs working in Git is huge ... but creative-types and biz-dev types and engineering types other than software devs think in terms of what they do, perhaps primarily document-centric or screen-centric workflow designed around their work process, rather than a Git flow.
 # The exhaustively-annotated, but yet still compact workflow
 
 The plan is to use an ANNOTATED prioritizable, sortable bullet-point checklist for agenda  ... the artifact of such a checklist, is somewhat like document [or can be printed/emailed as a separate document/spreadsheet/CAD file/etc].  
