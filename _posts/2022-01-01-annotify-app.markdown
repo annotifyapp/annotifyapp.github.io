@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Git-Centric Annotify App Workflow"
+title:  "Git-Centric Annotify App VScode Workflow"
 date:   2022-01-01 4:30:00
 categories: template
 ---
@@ -11,7 +11,9 @@ categories: template
 
 *The theology of Annoity.app is that Git was like the Big Bang; in this theology, the Git BigBang is still being developed to be Bigger Bangier Git.*
 
-Annotify exists in order to be able to focuse better ... by more efficiently collect/stash notes on different ideas to develop a better workflow in Git repositories which can have notification and search triggers so that somebody can remember/restart the idea. Annotify, in its current version is mostly just a collection of open source Git hacks and best practices -- ultimately, as we get to release 0.0.0 of an actual app, we will attempt to automate these hacks with code. 
+Annotify exists in order to be able to focus better ... SIMPLIFY, SIMPLIFY, SIMPLIFY 
+
+by more efficiently collect/stash notes on different ideas to develop a better workflow in Git repositories which can have notification and search triggers so that somebody can remember/restart the idea. Annotify, in its current version is mostly just a collection of open source Git hacks and best practices -- ultimately, as we get to release 0.0.0 of an actual app, we will attempt to automate these hacks with code. 
 
 # Annotify.app is a list attempting to evolve into a development community
 
