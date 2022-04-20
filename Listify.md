@@ -7,11 +7,19 @@ permalink: /Listify/
 
 # Listification is HYBRID intelligence
 
-Our commitment to hybrid human-machine intelligences begins with how we curate/annoate simple [HuJSON or JSON With Commas and Comments or JWCC](https://nigeltao.github.io/blog/2021/json-with-commas-comments.html) lists. 
+Our commitment to hybrid human-machine intelligences begins with how we curate/annoate simple [HuJSON or JSON With Commas and Comments or JWCC](https://github.com/tailscale/hujson) lists. 
+
+HuJSON allows
+
+/* slash-star block comments */ 
+
+and 
+
+// double-slash line comments,
 
 It's important to emphasize that before simply automating without any understanding ... it is necessary to have really informed understanding of [the state of the art in JSON formats or what's next for JSON](https://github.com/json-next/awesome-json-next). 
 
-JSON is necessary for getting to a #nocode world. The point is to [stop pretending that JSON is too simple for smart developers](https://news.ycombinator.com/item?id=26224255) and instead build less complicated, more maintainable things for [human clarity, rather than developer terseness](https://nigeltao.github.io/blog/2021/json-with-commas-comments.html#clarity-not-terseness) since the machines that read [JSON With Commas and Comments or JWCC files](https://nigeltao.github.io/blog/2021/json-with-commas-comments.html) will not care.
+JSON is necessary for getting to a #nocode world. The point is to [stop pretending that JSON is too simple for smart developers](https://news.ycombinator.com/item?id=26224255) and instead build less complicated, more maintainable things for [human clarity, rather than developer terseness](https://nigeltao.github.io/blog/2021/json-with-commas-comments.html#clarity-not-terseness) since the machines that read [HuJSON or JSON With Commas and Comments or JWCC files](https://github.com/tailscale/hujson) will not care.
 
 The annotation and curation of outlines and checklist involves using and developing the various forms of human intelligence, eg mental, emotional, social, business, physicultural ... along with, eventually, various forms of machine intelligence to handle the more tedious portions of list maintenance, search and connection building. 
 
