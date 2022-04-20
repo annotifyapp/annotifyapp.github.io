@@ -5,7 +5,9 @@ permalink: /Listify/
 ---
 
 
-# Listification is **HYBRID intelligence
+# Listification is HYBRID intelligence
+
+We curate simple [HuJSON](https://nigeltao.github.io/blog/2021/json-with-commas-comments.html) lists.
 
 The annotation and curation of outlines and checklist involves using and developing the various forms of human intelligence, eg mental, emotional, social, business, physicultural ... along with, eventually, various forms of machine intelligence to handle the more tedious portions of list maintenance, search and connection building. 
 
