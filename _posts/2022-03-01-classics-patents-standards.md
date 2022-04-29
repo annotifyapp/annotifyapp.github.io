@@ -8,9 +8,9 @@ categories: classics
 
 # Meta-Knowledge and the Heritage of Knowledge
 
-***Studying the heritage of literature, scientific knowledge and invention is really about studying how the creative process works asynchronously over many generations upon generations to think and build knowledge.*** 
+Studying the heritage of literature, scientific knowledge and invention is really about studying how the creative process works asynchronously over many generations upon generations to think and build knowledge ... knowledge is not just the original insight, knowledge comes out of the interactions, tests, replications, debates and more tests and proof. It's never just ONE brilliant idea. 
 
-Knowledge development is never an INDIVIDUAL thing ... it requires teams, competition and asynchronous collaboration that extends across the globe and over generations.
+Knowledge development is never an INDIVIDUAL thing anymore ... it requires teams, competition and asynchronous collaboration that extends across the globe and over generations ... knowledge comes from ideas as well as review and refinement ... ***knowledge depends upon lots of annotations, discussions of annotations and continual debate/argument of the annoations***.
 
 If we want to contribute something to improving team creative processes [which is what the goal of annotify.app is about] we will need to consider and reconsider our assumptions on what the rough schematic of the team creative processes looks like.
 
