@@ -1,4 +1,6 @@
-# Collaborative workflow mgmt for distributed, reproducible, extensible reliability engineering data analyses with annotated discussion and notifications for peer review.
+# Annotations, notifications drive hybrid cognitive intelligence.
+
+**Annotations and notifications are KEY** ... this is how we will build a collaborative workflow mgmt systems utilizing AI/ML for distributed, reproducible, extensible reliability engineering data analyses with annotated discussion and notifications for peer review. ***It's entirely about the human engagement necessary to HYBRIDIZE cognitive intelligence of trained, automated models.***
 
 In general, we see this implementation as being about using patterns and re-using as much code as possible from the Pythonic data science ecosystem, eg [Conda package mgmt](https://docs.conda.io/en/latest/), the [Jupyter architecture](https://docs.jupyter.org/en/latest/projects/architecture/content-architecture.html) and the [standard .ipynb JSON notebook schema](https://github.com/jupyter/nbformat), [SnakeMake workflow mgmt system](https://snakemake.readthedocs.io/en/stable/), as well as others, like [Google Colaboratory](https://colab.research.google.com/) or [Amazon EMR JupyterHub](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-jupyterhub.html) or others which use a similar, ***nearly*** standard architecture.
 
@@ -6,4 +8,8 @@ We believe that this distributed, but version-controlled workflow should work we
 
 # Annotify.App will be an illustrative example of the Annotify.ORG open source workflow mgmt system.
 
-Annotify.APP will be primarily intended to illustrate, in one specific example, how the ANNOTIFY.ORG open source material might be implemented. The goal, at least at first, of ANNOTIFY.APP will be exclusively for illustration ... it is possible that this example could also evolve into a separate product ... but as all open source advocates well know **projects are not products** ... illustrative examples of projects are not immediately intended to be products.
+Annotify.APP will be primarily intended to illustrate, in one specific example, how the ANNOTIFY.ORG open source material might be implemented. 
+
+The goal, at least at first, of ANNOTIFY.APP will be exclusively for illustration. **At first**, the open source project will be developed in order to make this one concrete example of an application work. Later the open source project will be developed for other usage profiles. It is possible that this example could also ***eventually someday*** evolve into a separate product, but not at first.
+
+As all open source advocates well know **projects are not products** ... illustrative examples of projects are not immediately intended to be products.
