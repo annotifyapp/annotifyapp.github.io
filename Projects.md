@@ -4,7 +4,7 @@ title: Projects
 permalink: /Projects/
 ---
 
-
+*Projects are like art or painting or music ... except different.*
 
 # Listing of projects
 
