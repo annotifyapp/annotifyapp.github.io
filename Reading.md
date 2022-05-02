@@ -5,7 +5,12 @@ permalink: /Reading/
 ---
 
 
-We mostly read as a break from *work* or writing code to build MLops pipelines or analyzing data ... but we try to speedread *with serious, critical* ***intention.*** By reading with *intention* we mean that we are consciously trying read a lot better, in order to read faster and understand more. ***We read to discern author's intent.*** 
+## We read to discern author's intent FASTER.
+
+Okay, we mostly read as a break from the *work* parts of this project, like when we are writing/debugging code to build MLops pipelines or analyzing data ... but, it's not strictly for relaxation. We try to speedread *with serious, critical* ***intention.*** 
+
+By reading with *intention* we mean that we are consciously trying read a lot better, in order to generally read a lot faster while understanding more. ***Reading FAST really is kind of a big deal ... if nothing else, it helps weed out the teevee watchers and passive consumers of content, who just can't keep up with a conversation.***
+
 
 # Reading Lists
 
