@@ -5,31 +5,31 @@ permalink: /Reading/
 ---
 
 
-We mostly read as a break from work ... but we try to speedread *with serious, critical intention.* 
+We mostly read as a break from *work* or writing code to build MLops pipelines or analyzing data ... but we try to speedread *with serious, critical* ***intention.*** By reading with *intention* we mean that we are consciously trying read a lot better, in order to read faster and understand more. ***We read to discern author's intent.*** 
 
 # Reading Lists
 
 Our aim with this listing is to never have to think about our next list of items to read/annotate ... we want to have roughly 125 good workout ideas in the hopper, to have 25 that we work on at least once a month, to have five that we touch once a week and to have ONE main one that we are focusing on getting right.
 
-1) Newsreader; pre-print archives
+1) Newsreader, like Newsblur or others, set up to read RSS feeds from pre-print archives
 
-2) Classics and Classic commentary
+2) Classics and more importantly commentary on the classics
 
-3) Peer-reviewed Scientific Journals
+3) Old school peer-reviewed scientific journals, usually this is limited to abstracts.
 
-4) Poetry
+4) Poetry ... to put the brain in a the blender and juice it.
 
-5) Martial arts, self-defense
+5) Martial arts, self-defense ... but only if we also roll on the mats
 
-6) Sculpture, particularly landsculpting
+6) Sculpture, particularly landsculpting or messing up the lawn
 
-7) Writing on prayer, lojong, meditation 
+7) Ancient writings on prayer, lojong, meditation ... to think like a 5000-year old human. 
 
-8) Art, artists, art history
+8) Art, artists, art history ... like poetry except visual ... and gets us in the mood to lop an ear off.
 
-9) Architecture, particularly parks and green spaces
+9) Architecture, particularly parks and green spaces ... or grain elevators
 
-10) Ecosystems, nature,
+10) Ecosystems, nature, pond scum
 
 11) Physics
 
@@ -37,15 +37,15 @@ Our aim with this listing is to never have to think about our next list of items
 
 13) Chemistry
 
-14) Meta Wikipedia, Wikipedians, General wikiculture
+14) Meta Wikipedia, Wikipedians and edit wars and other things from general wikiculture
 
 15) Philosophy
 
-16) Music, Music AI, Music Metadata
+16) Music, Music AI, and especially music metadata
 
-17) Podcastering, DAWs, audio
+17) Podcastering, DAWs, DAW code and collaborative audio engineering 
 
-18)
+18) *Yeah, we know ... we're still working on the rest of this list*
 
 19)
 
