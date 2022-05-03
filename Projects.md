@@ -22,17 +22,17 @@ There are far too many topics to list which tie in to Annotify.ORG, but our aim 
 
 5) Most [startup accelerators](https://en.wikipedia.org/wiki/Startup_accelerator) are almost gauranteed to produce failures, ie actually can be studied as examples of what not to do ... but some, [YCombinator and HackerNews](https://en.wikipedia.org/wiki/Y_Combinator), [VentureHacks and ProductHunt](https://en.wikipedia.org/wiki/AngelList), [TechStars](https://en.wikipedia.org/wiki/Techstars) have decidely better odds ... there are new, innovative ideas like MicroAcquire [and BuildSell30] which leverage the notion of [hackathons, code sprints, datathons, codefests](https://en.wikipedia.org/wiki/Hackathon) for the startup realm.
 
-6) GitHub Explore / Curated Collections
+6) GitHub / GitLab ... the differences inform. For example, why did GitLab get ANY traction when GitHub was already so dominant?
 
-7) AWESOME
+7) [Arxiv Labs](https://labs.arxiv.org/), ConnectedPapers and the whole realm of things affiliated to pre-print Archives
 
-8) CDNjs
+8) [CDNjs.com](https://cdnjs.com/) the business ... as well as [the CDNjs GitHub repositories](https://github.com/cdnjs) and [VUEjs](https://github.com/vuejs) the [architecture behind progressive web apps (PWAs)](https://developers.google.com/web/ilt/pwa/introduction-to-progressive-web-app-architectures) including things like [the GitHub repos](https://github.com/jamstack) driving [jamstack.org](https://jamstack.org/)
 
 9) OpenAI ... because of GPT-4? Meh ... we'll see; probably not. We do respect the connections and hype of the OpenAI mafia ... we're not being critical -- the level of networking and connection maintenance necessary to drive the hype surrounding something like GPT-4 is basically unparalleled ... we study OpenAI for their approach to networking, not necessarily the AI itself ... but the AI is not bad either. It's just that AI practioners really need to *wise up* and understand how much of role HYPE and emotion plays in the world of PEOPLE ... who work on AI.
 
 10) Newsblur and other RSS newsfeed readers 
 
-11) Pre-Print Archives
+11) AWESOME repositories and curated collections
 
 12) The [Anaconda Community](https://community.anaconda.cloud/) has a substantial impact on how we view reliable foundations, which just work ... this particularly pertains to something like the basic [Conda infrastructure](https://github.com/annotifyapp/conda) OS-agnostic, system-level binary package manager and ecosystem -- it is perhaps not perfect, but it is used because it is just flat out more reliable and requires less arcane hackery to support
 
