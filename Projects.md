@@ -28,13 +28,13 @@ There are far too many topics to list which tie in to Annotify.ORG, but our aim 
 
 8) CDNjs
 
-9) OpenAI
+9) OpenAI ... because of GPT-4? Meh ... we'll see; probably not. We do respect the connections and hype of the OpenAI mafia ... we're not being critical -- the level of networking and connection maintenance necessary to drive the hype surrounding something like GPT-4 is basically unparalleled ... we study OpenAI for their approach to networking, not necessarily the AI itself ... but the AI is not bad either. It's just that AI practioners really need to *wise up* and understand how much of role HYPE and emotion plays in the world of PEOPLE ... who work on AI.
 
-10) Newsblur 
+10) Newsblur and other RSS newsfeed readers 
 
 11) Pre-Print Archives
 
-12) [Anaconda Community](https://community.anaconda.cloud/) ... particularly, just the basic [Conda infrastructure](https://github.com/annotifyapp/conda) OS-agnostic, system-level binary package manager and ecosystem
+12) The [Anaconda Community](https://community.anaconda.cloud/) has a substantial impact on how we view reliable foundations, which just work ... this particularly pertains to something like the basic [Conda infrastructure](https://github.com/annotifyapp/conda) OS-agnostic, system-level binary package manager and ecosystem -- it is perhaps not perfect, but it is used because it is just flat out more reliable and requires less arcane hackery to support
 
 13) [PyTorch](https://github.com/annotifyapp/pytorch) ... Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
