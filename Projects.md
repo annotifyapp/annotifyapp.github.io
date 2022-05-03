@@ -34,13 +34,13 @@ There are far too many topics to list which tie in to Annotify.ORG, but our aim 
 
 11) Pre-Print Archives
 
-12) 
+12) [Anaconda Community](https://community.anaconda.cloud/) ... particularly, just the basic [Conda infrastructure](https://github.com/annotifyapp/conda) OS-agnostic, system-level binary package manager and ecosystem
 
-13)
+13) [PyTorch](https://github.com/annotifyapp/pytorch) ... Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
-14) 
+14) [PyTorch Tutorial](https://github.com/annotifyapp/pytorch-tutorial)PyTorch Tutorial for Deep Learning Researchers
 
-15)
+15) [PyTorch Geometric Library](https://github.com/annotifyapp/pytorch_geometric) ... a Graph Neural Network Library for PyTorch
 
 16)
 
