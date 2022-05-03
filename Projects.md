@@ -4,33 +4,35 @@ title: Projects
 permalink: /Projects/
 ---
 
-*Projects are like art or painting or music ... except different.*
+*Open Source projects are like art or painting or music ... except better ... but we're biased.*
 
-# Listing of projects
+# Listing of Open Source Projects Which Are Related to Annotify
 
-Our aim is to have roughly 125 ideas in the hopper, to have 25 that we work on at least once a month, to have five that we touch once a week and to have ONE main venture that we are focusing on ... we might obtain a URL for each one ... *but maybe not.*
+We are commitizens for other projects ... that means that are not necessarily interested in leading the parade there, but we intend to follow it, fork a repo and look at the code, pay attention to what the issues are, cheer for it where we get an opporunity, critique it when we see something questionable, throw our two cents in and comment upon general direction and hopefully maybe we get to roll up our sleeves, not just to *fill sandbags* but to actually advance the cause of other projects.
 
-1) Annotify.APP
+There are far too many topics to list which tie in to Annotify.ORG, but our aim is to have roughly 125 project tangencies in the *hopper* of relationships that we need to pay attention to, to have 25 that we work on at least once a month, to have five that we touch once a week and to have ONE main project tangency that we are focusing on TODAY ... 
 
-2) DIFFversity
+1) VSCode / GitPod / Codespaces ... 
 
-3) ENGR.co
+2) Doublind
 
-4) NOSE.life
+3) Project Jupyter / Colab
 
-5) AncientGuy
+4) SnakeMake
 
-6) 86400.guru
+5) MicroAcquire
 
-7) Greenspace.GROUP
+6) GitHub Explore / Curated Collections
 
-8) CloudKernel
+7) AWESOME
 
-9) WhoresRadish
+8) CDNjs
 
-10) Botanical.Cloud 
+9) OpenAI
 
-11)
+10) Newsblur 
+
+11) Pre-Print Archives
 
 12) 
 
