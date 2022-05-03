@@ -20,7 +20,7 @@ There are far too many topics to list which tie in to Annotify.ORG, but our aim 
 
 4) SnakeMake
 
-5) MicroAcquire
+5) Most [startup accelerators](https://en.wikipedia.org/wiki/Startup_accelerator) are almost gauranteed to produce failures, ie actually can be studied as examples of what not to do ... but some, [YCombinator and HackerNews](https://en.wikipedia.org/wiki/Y_Combinator), [VentureHacks and ProductHunt](https://en.wikipedia.org/wiki/AngelList), [TechStars](https://en.wikipedia.org/wiki/Techstars) have decidely better odds ... there are new, innovative ideas like MicroAcquire [and BuildSell30] which leverage the notion of [hackathons, code sprints, datathons, codefests](https://en.wikipedia.org/wiki/Hackathon) for the startup realm.
 
 6) GitHub Explore / Curated Collections
 
