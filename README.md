@@ -1,12 +1,12 @@
-# Annotations/tagging and AI-driven notifications drive collaborative hybrid cognitive intelligence.
+# Annotations/tagging and AI-driven notifications coach collaborative hybrid cognitive intelligence.
 
-*It's all in the mind! It's like playing a DEEP, but enjoyable and riveting game.*
+*Optimizing the neurosphere of work involves improving the DEEP flow of the play of a riveting game.* **It's ALL in the mind.**
 
-**Annotations and notifications are KEY, but the secret neuro-sauce is how we meditatively freshen-up transform the "air quality" in the work noosphere.**
+Annotations and notifications might be KEY, but the secret neuro-sauce is how we meditatively freshen-up transform the "air quality" in the work noosphere.
 
 Paying attention to the creative mind is how we will build a collaborative workflow mgmt systems utilizing AI/ML for distributed, reproducible, extensible reliability engineering data analyses with annotated discussion and notifications for peer review. ***It's entirely about optimizing human engagement*** to collaboratively ***HYBRIDIZE cognitive intelligence*** of teams of humans using machines and optimizing trained models for better automation/recommendation.
 
-*It's all in the mind! It's like playing a DEEP, but enjoyable and riveting game.*
+*Optimizing the neurosphere of work involves improving the DEEP flow of the play of a riveting game.* **It's ALL in the mind.**
 
 In general, we see this implementation as being about using patterns and re-using as much code as possible from the Pythonic data science ecosystem, eg [Conda package mgmt](https://docs.conda.io/en/latest/), the [Jupyter architecture](https://docs.jupyter.org/en/latest/projects/architecture/content-architecture.html) and the [standard .ipynb JSON notebook schema](https://github.com/jupyter/nbformat), [SnakeMake workflow mgmt system](https://snakemake.readthedocs.io/en/stable/), as well as others, like [Google Colaboratory](https://colab.research.google.com/) or [Amazon EMR JupyterHub](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-jupyterhub.html) or others which use a similar, ***nearly*** standard architecture.
 
