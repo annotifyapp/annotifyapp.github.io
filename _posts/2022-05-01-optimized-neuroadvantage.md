@@ -14,11 +14,24 @@ It's all about where we can go in the next 100, 250, 500 years. *The Universe ma
 
 It's not the secret sauce of Annotify, but actually ***the neuro-secret-sauce*** of neuroadvantaged cognitive differences in of human selected based on how they might complement an optimized team ... and, although we might have a trick or two up our sleeve, this is *not really that secret.*
 
-Someone will accomplish the general strategy ... we expect that there will be [or actually already are] lots of projects soon working on delivering this vision ... it amounts to tools, mechods, technologies which help optimize the neuroadvantage of the cognitively-diverse human knowledgeworker team.
+It's really about how humans GET SMART.
 
-It will make human work ENJOYABLE ... and explosively, cosmically, orders of magnitude more creative. This will mean that the [Kardasev Type V civilizations](https://en.wikipedia.org/wiki/Kardashev_scale) or other formulations that are about knowledge / messaging rather than energy within reach of human kind.
+We are not born that smart; we Get Smart.
 
-The development of HYBRID intelligence ... both LIVING carbon-based neurological brains ... and from lifeless silicon-based swarms of processors will be a much larger DIFFERENCE than anything we have seen in information technology, because informatiion technology is only based upon a doped transistor and the simplistic logic of lots of switches.
+It is the revisions that perfect our understanding ... we are always perfecting, using our working hypotheses, trying things, failing and troubleshooting ... we might react emotionally, but we GET IT and then drive toward neural connection to be more ready in the future.
+
+Unlike connections in silicon, biological, carbon-based neural connections are fluid ... the intelligence and capacity for logic does not pre-exist ... the intellect is formed from chaos; our neural connections are not exactly the result of carefully compiled programming -- the biological, carbon-based neural connections are result of chaos and our making sense of chaos.
+
+Humans *perfect* their intellect; it did not start perfect -- we are continually perfecting it.
+
+This is wabi sabi ... a LIVING, organic process ... not something we buy ... wabi sabi DEVELOPS out of the acceptance and utilitization of transience and imperfection ... it is ancient Zen concept derived from the Buddhist teaching of the three marks of existence (三法印, sanbōin), specifically impermanence (無常, mujō), suffering (苦, ku) and emptiness or absence of self-nature (空, kū).
+
+
+Someone will accomplish the general strategy ... we expect that there will be [or actually already are] lots of projects soon working on delivering this vision ... it amounts to tools, mechods, technologies which help optimize the neuroadvantage of the cognitively-diverse human knowledgeworker team.  We are espectially excited about [LabML AI]https://labml.ai/) and their [neural network implementations](https://nn.labml.ai/index.html) or [annotated deep learning implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations.) ***These are great times to be alive!***
+
+Along with machines, it is neural process engineering of human workflows will make human work more enjoyable ... but more importantly it will also make work explosively, cosmically, orders of magnitude more creative. 
+
+This will mean that the [Kardasev Type V civilizations](https://en.wikipedia.org/wiki/Kardashev_scale) or other formulations that are about knowledge / messaging rather than energy within reach of human kind. It all comes out of the development of HYBRID intelligence ... which is a product of BOTH our LIVING carbon-based neurological brains ... AND from lifeless silicon-based swarms of processors will be a much larger DIFFERENCE than anything we have seen in information technology, because informatiion technology is only based upon a doped transistor and the simplistic logic of lots of switches.
 
 Hybrid intelligence encompasses the entire human use of technology for hybrid intelligence ... but allows for our knowledge work to optimized for team performance ... it transcends what the individual can accomplish and looks at how the sum can be greater than the parts. Hybrid intelligence is necessarily complex ... and necessarily driven by things like emotion, mood and love.
 
