@@ -8,7 +8,7 @@ categories: template
 
 We started a [GitHub project](https://github.com/orgs/annotifyapp/projects/1) ... with the intention of maybe using the GH's project infrastructure as way to coordinate the ongoing review of papers.
 
-**Annotify is about making knowledgework FUNNER ... so we need a workflow that is FUN.** *Well, sort of fun ... if you like workflows.*
+**Annotify is about making knowledgework FUNNER ... so we need a workflow that is FUN.** *Well, sort of fun ... if you like workflows or find comfort in a somewhat structured workflow.*
 
 We sort of need a general project architecture or a work breakdown structure ... to let everyone know where things are at. 
 
