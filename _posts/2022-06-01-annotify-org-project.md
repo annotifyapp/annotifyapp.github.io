@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Neuro-Secret-Sauce of AnnotifyApp"
+title:  "The AnnotifyApp Community Project"
 date:   2022-06-01 4:30:00
 categories: template
 ---
