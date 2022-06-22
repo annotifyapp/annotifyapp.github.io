@@ -8,14 +8,26 @@ categories: template
 
 We started a [GitHub project](https://github.com/orgs/annotifyapp/projects/1) ... with the intention of maybe using the GH's project infrastructure as way to coordinate the ongoing review of papers.
 
-Brainstorming new ideas
+**Annotify is about making knowledgework FUNNER ... so we need a workflow that is FUN.** *Well, sort of fun ... if you like workflows.*
 
-Parking ideas in ThinkerLand
+We sort of need a general project architecture or a work breakdown structure ... to let everyone know where things are at. 
 
-Waiting for other developments
+### Brainstorming New Ideas
 
-Low priority tasks
+What should we be thinking about
 
-Complete and review ASAP
+### Parked Ideas in ThinkerLand
 
-Done, Reviewed, Moving On to other things
+Not abandoned ... but ideas that we just don't know what we can do immediately ... ***still very important*** for spurring thought, conversation, more effort
+
+### Waiting For Other Developments
+
+Categorized as higher priortity ideas; likely to move immediately up to the ***Complete and Review ASAP*** category ... but right now we're waiting for ____
+
+### Low Priority TBDs
+
+Nice to have, stuff we should get to soon, but other fires are burning hotter
+
+### Complete and Review ASAP
+
+### Done, Reviewed And Onward
