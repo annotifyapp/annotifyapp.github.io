@@ -17,5 +17,4 @@ We are not interested in re-inventing any wheels ... this is all about simplifyi
 
 * A [Pythonic data exploration infrastructure](https://github.com/jakevdp/PythonDataScienceHandbook) including the [Jupyter architecture](https://docs.jupyter.org/en/latest/projects/architecture/content-architecture.html) and the [standard .ipynb JSON notebook schema](https://github.com/jupyter/nbformat), [SnakeMake workflow mgmt system](https://snakemake.readthedocs.io/en/stable/), as well as others, like [Google Colaboratory](https://colab.research.google.com/) or [Amazon EMR JupyterHub](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-jupyterhub.html) or others which use a similar, ***nearly*** standard architecture.
 
-
-* Rentable BigCompute ... and inexpensive, highly usable resources like smartphones, chromebooks, laptops and maybe things like gaming rigs.
+* Rentable BigCompute ... not just GCP, AWS, Azure ... but also Google Colab, Gradient Paperspace, Lambda Cloud, VAST.ai, et al ... really kind of changes *everything* in the realm of computational science ... and that does not mean we forget about inexpensive, highly usable ubiquitous devices like smartphones, chromebooks, laptops ... and maybe even things like gaming workstations or bitcoin mining rigs. ***BigCompute*** *is everywhere.*
