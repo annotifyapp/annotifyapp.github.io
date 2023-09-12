@@ -2,7 +2,7 @@
 layout: post
 title:  "Beyond Human Experience"
 subtitle:  "The Theory of Quantum Information"
-date:   2023-08-09 4:30:00
+date:   2023-10-09 4:30:00
 categories: emergence
 ---
 
