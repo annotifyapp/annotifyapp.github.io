@@ -1,14 +1,20 @@
 ---
 layout: post
-title:  "The Tides of Learning"
-date:   2022-11-28 4:30:00
+title:  "The Architecture of Learning"
+date:   2023-09-09 4:30:00
 categories: architecture
 ---
 
 
-The point of the Annotify app is to learn faster ... ***we learn faster by learning both from others who are learning faster*** 
+The point of the AnnotifyAPP is to advance the cause of making Science more social ... it's being done; it's really not that hard to envision or contemplate any more; now it's really more about a cleaner, more pragmatic and *user-friendly* foundational architecture for building the next architecture of learning.
 
-This means that our "app" or learning and research toolchain will be blatantly stolen from what is working best ... since we rely primarily upon FREE open source tools, that means that we use the toolchains with an aim toward to building something better ... approaching every tool with [dogfooding](https://en.wikipedia.org/wiki/Eating_your_own_dog_food) mentality.
+This architecture of learning is partly about making Science more engaging, even more fun -- but the point of it all is to generally make it possible for everyone to learn faster ... ***we learn faster by learning both about the topic and the processes of learning faster from others who are learning faster*** ... learning faster is not just about observability engineering and applied social network telemetry ... it's also about the structure of knowledge graphs and the importance of that in graph database engineering ... and since it's necessarily visual, this involves citation metrology and applied scientometery.
+
+And the beauty of all this jargon is that it's not hype ... PEOPLE ARE ALREADY DOING THIS ... there are plenty of open source communities and even products out there right now.  The point of AnnotifyAPP is to participate in an already ongoing revolution in how Science is being done.
+
+# Dogfooding our dogfood
+
+Learning about applied scientometery means that our "app" or learning and research toolchain will be blatantly stolen from what is working best ... since we rely primarily upon FREE open source tools, that means that we use the toolchains with an aim toward to building something better ... approaching every tool with [dogfooding](https://en.wikipedia.org/wiki/Eating_your_own_dog_food) mentality.
 
 ----------------------------
 
