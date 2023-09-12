@@ -7,7 +7,11 @@ categories: emergence
 ---
 
 
-We believe that knowledge ***emerges*** ... it does not exist BEFORE the complexity of the Universe is presented in a manner that can be discovered or understood by humans. The philosophical [theory of knowledge](https://en.wikipedia.org/wiki/Epistemology) has offered  a chance to formally think about exactly how knowledge does EMERGE by studying the nature, origin, and scope of knowledge, epistemic justification, the rationality of belief, and various related issues. These ongoing debates in [formal epistemology](https://en.wikipedia.org/wiki/Formal_epistemology) and [computational epistemology](https://en.wikipedia.org/wiki/Computational_epistemology) have traditionally been clustered around four general core areas or themes:
+We believe that knowledge ***emerges*** ... knowledge does not exist on its own. Knowledge is a very imperfect, very partial **artifact** of the sum total of all human understanding.
+
+Before we start, we should understand ... not just how little we know but ... how incredibly little it is possible for or our species to ever know. *It's not JUST that we ain't that smart ... it's also that we lack the capacity to ever be more that partially smart.* The complexity of the Universe must be presented in a manner that can be discovered or understood by human beings ... thus, the sum total of all human knowledge and everything that might be accomplished with human knowledge is an infinitesimally small subset of a subset of a subset of what the entire Universe or set of Universes is about. 
+ 
+The philosophical [theory of knowledge](https://en.wikipedia.org/wiki/Epistemology) has offered  a chance to formally think about exactly how knowledge does EMERGE by studying the nature, origin, and scope of knowledge, epistemic justification, the rationality of belief, and various related issues. These ongoing debates in [formal epistemology](https://en.wikipedia.org/wiki/Formal_epistemology) and [computational epistemology](https://en.wikipedia.org/wiki/Computational_epistemology) have traditionally been clustered around four general core areas or themes:
 
 * The philosophical analysis of the nature of knowledge and the conditions required for a belief to constitute knowledge, such as truth, infererence justification and the logical reliability of bodies of knowledge
 * Potential inductive and deductive sources of human cognition, acquired knowledge and justified bodies of inference built upon perception, reason, memory, and testimony
