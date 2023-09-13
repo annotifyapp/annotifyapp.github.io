@@ -1,15 +1,19 @@
 ---
 layout: post
-title:  "Beyond Human Experience"
-subtitle:  "The Theory of Quantum Information"
+title:  "Beyond Human Experience; Beyond a Single Human's Experience"
+subtitle:  "Complexity And The Theory of Quantum Information"
 date:   2023-10-09 4:30:00
 categories: emergence
 ---
 
 
-We believe that knowledge ***emerges*** ... knowledge does not exist on its own. Knowledge is a very imperfect, very partial **artifact** of the sum total of all human understanding.
+From the experimental implementation to complexity classes, from the philosophical justifications for the Church-Turing Thesis to the nitty-gritty of bra/ket manipulation ... we can look at a text like Mike and Ike, we start to understand that knowledge is way beyond a clever idea and depends on far more than one *einstein* ... it's not one guy discovering fire, or the wheel or even something like penicillin or the transistor -- we just are not that smart as individuals, even though we are still stupid enough to file patents that attribute ideas to one individual ... we are getting smarter about knowledge, but we are not that smart yet.
 
-Before we start, we should understand ... not just how little we know but ... how incredibly little it is possible for or our species to ever know. *It's not JUST that we ain't that smart ... it's also that we lack the capacity to ever be more that partially smart.* The complexity of the Universe must be presented in a manner that can be discovered or understood by human beings ... thus, the sum total of all human knowledge and everything that might be accomplished with human knowledge is an infinitesimally small subset of a subset of a subset of what the entire Universe or set of Universes is about. 
+Knowledge is very complex thing resting atop an even more complex foundation. There are indeed einsteins and perhaps a century ago it still made sense to award Nobel prizes to solo einteins working in obscurity ... but not any more. Nowadays, knowledge ***emerges*** from very large populations of *einsteins* arguing with and learning from one another -- but it's not until after the concepts have been is developed by humans ... human knowledge [including the semiotics of how we represent knowledge] does not exist on its own ... 3 and 5 do not know that their sum is 8 or their product is 15; they certainly have no understanding of little rules we use like the commutative property in mathematics ... numerical analysis is terribly important to humans but ONLY to humans [and their numericl machines]... human knowledge is a matter of contexts, but it is a very imperfect, very partial **artifact** of the sum total of all human understanding ... of course, we often say that artificial intelligence is "hallucinating an answer" ... like a free verse rapster riffing on rhymes -- the AI's product is not knowledge and AI functionality or meaningful work product simply cannot extend past the realm of human knowledge, ie after all, exactly WHO is AI trying to be intelligent for?
+
+It's similar for us ... we need to know our WHY ... need to think about WHO we're doing this for? Frankly, it's mostly for us ... or the guy like us who will pick up where we left off in minutes, days or years from now. We are not that smart, we were certainly not born smart ... but collectively, we GET smarter by working on the process of getting smarter.
+
+Before we go any further ...  we should understand not just how little we know but ... how incredibly little it is possible for or our species to ever know. *It's not JUST that we ain't that smart ... it's also that we lack the capacity to ever be more that partially smart.* The complexity of the Universe must be presented in a manner that can be discovered or understood by human beings ... thus, the sum total of all human knowledge and everything that might be accomplished with human knowledge is an infinitesimally small subset of a subset of a subset of what the entire Universe or set of Universes is about. 
  
 The philosophical [theory of knowledge](https://en.wikipedia.org/wiki/Epistemology) has offered  a chance to formally think about exactly how knowledge does EMERGE by studying the nature, origin, and scope of knowledge, epistemic justification, the rationality of belief, and various related issues. These ongoing debates in [formal epistemology](https://en.wikipedia.org/wiki/Formal_epistemology) and [computational epistemology](https://en.wikipedia.org/wiki/Computational_epistemology) have traditionally been clustered around four general core areas or themes:
 
