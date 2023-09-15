@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Toward a Theory of Quantum Communication"
-subtitle:  "LEAN Emergence And The Elevation of Communication Discipline"
-date:   2023-08-09 4:30:00
+title: "Toward a Theory of Quantum Communication"
+subtitle: "LEAN Emergence And The Elevation of Communication Discipline"
+date: 2023-08-09 4:30:00
 categories: LEAN
 ---
 
