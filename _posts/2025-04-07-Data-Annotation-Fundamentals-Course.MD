@@ -132,8 +132,7 @@ categories: Training
 
 ### Module 1: Git Core Concepts
 
-1. Understanding distributed version control systems and Git's data model ... the first order of business is to read through this entire 60 module syllabus, so that you understand the WHY of WHY Git's data model and Git's approach to distributed **version control** will matter as much as it does to your future study of the topic of data annotation and knowledge engineering, ie ***everything*** *is going to be built on the foundation of Git's data model and DVCS*. ***As you grasp the lay of the land for how data annotation works, you will see that of course, Git matters***. There's no substitute for a really solid grasp of Git's underlying model ensures you can make intentional, **traceable** changes to your knowledge base. This foundation allows future automation tools to interpret your repository's history reliably and predictably.
-
+1. Starting with the [basics of Git](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository) and understanding [what exactly a distributed version control systems is and how it works](https://about.gitlab.com/topics/version-control/benefits-distributed-version-control-system/) and how [data version control work using Git's data model](https://dvc.org/doc/user-guide) ... the first order of business is to read through this entire 60 module syllabus, so that you understand the WHY of WHY Git's data model and Git's approach to distributed **version control** will matter as much as it does to your future study of the topic of data annotation and knowledge engineering, ie ***everything*** *is going to be built on the foundation of Git's data model and DVCS*. ***As you grasp the lay of the land for how data annotation works, you will see that of course, Git matters***. There's no substitute for a really solid grasp of Git's underlying model ensures you can make intentional, **traceable** changes to your knowledge base. This foundation allows future automation tools to interpret your repository's history reliably and predictably.
 
 2. Setting up Git: installation, configuration, and repository initialization
 
@@ -147,13 +146,13 @@ categories: Training
    
    > **Why it matters**: Effective remote repository management ensures your knowledge base remains synchronized across environments and collaborators. This consistency is crucial for automated tools that need reliable access to the complete, current state of information.
 
-5. Git references: HEAD, branches, and tags
+5. Git references: HEAD, [branches](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell) especially with [advanced branching tools like GitButler](#module-15-git-butler), and tags
    
    > **Why it matters**: Understanding references provides precise navigation points for both humans and automated systems to locate specific states of your knowledge base. These reference points allow tools to extract or process information from exact moments in your repository's timeline.
 
-6. Git internals: objects, references, and packfiles
+6. [Git internals](https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain): [objects](https://git-scm.com/book/en/v2/Git-Internals-Git-Objects), [references](https://git-scm.com/book/en/v2/Git-Internals-Git-References), [packfiles](https://git-scm.com/book/en/v2/Git-Internals-Packfiles), [the refspec](https://git-scm.com/book/en/v2/Git-Internals-The-Refspec), [transfer protocols](https://git-scm.com/book/en/v2/Git-Internals-Transfer-Protocols), [maintenance and data recovery](https://git-scm.com/book/en/v2/Git-Internals-Maintenance-and-Data-Recovery) and the bash shell [which Git runs inside] [environment variables Git pays attention to.](https://git-scm.com/book/en/v2/Git-Internals-Environment-Variables)
    
-   > **Why it matters**: Knowledge of Git's internal structure enables you to optimize storage and performance as your knowledge base grows. This optimization ensures automation processes remain efficient even as your information repository becomes more complex and comprehensive.
+   > **Why it matters**: Knowledge of Git internals is about lower-level plumbing commands; these commands for the lower level plumbing commands are perhaps simpler than the higher-level porcelain commands that must use to make Git do anything. Understanding how Git works at a lower level is necessary to really understand why Git is doing what it’s doing; this knowledge also helps in writing tools and helper scripts to make a specific workflow work better for you. Knowledge of Git's internal structure enables you to optimize storage and performance as your knowledge base grows. This optimization ensures automation processes remain efficient even as your information repository becomes more complex and comprehensive.
 
 ### Module 2: Advanced Git Commands
 1. Interactive staging and patch mode for granular commits
@@ -345,9 +344,9 @@ categories: Training
 
 ## Section 8: Git-Focused Tools
 ### Module 15: Git Butler
-1. Understanding Git Butler's philosophy and approach
+1. Understanding [the Git Butler manifesto](https://docs.gitbutler.com/why-gitbutler), [Scott Chacon](https://github.com/schacon)'s Git philosophy, his [interest in language **learning**](https://blog.chatterbug.com/en/how-to-talk-about-language-learning/), and how/why GitButler builds upon immersively communicating in native-tongue ***git****think*, especially everything related to branching in the [ProGit2 approach](https://git-scm.com/book/en/v2). [GitButler is seen as a very solid attempt to bridge the gap between the elegant theory of Git branching and the often-messy reality of software development](https://g.co/gemini/share/e3a356db0b78), drawing inspiration from the idea that mastering complex systems, like Git or a language, benefits from tools that foster intuitive understanding and fluid interaction.
    > **Why it matters**: Conceptual alignment with modern workflow automation tools enhances your knowledge management effectiveness. This alignment ensures you leverage the most efficient approaches for maintaining complex information repositories.
-2. Setting up Git Butler for automated branch management
+2. [Setting up Git Butler for automated branch management](https://x.com/i/grok/share/KWba4PFPn73EPLKJaDsBZwWpm) might seem like overkill for solo developers, but the point of it is in the discipline for that point where the work succeeds to the point that coding invitably becomes social, collaborative.
    > **Why it matters**: Smart automation reduces the overhead of managing parallel knowledge development streams. This reduction allows you to focus on information content rather than repository mechanics.
 3. Implementing automated stacking and rebasing
    > **Why it matters**: Streamlined change management creates cleaner knowledge evolution patterns that are easier to understand. This clarity makes the historical development of your information more accessible to both humans and machines.
