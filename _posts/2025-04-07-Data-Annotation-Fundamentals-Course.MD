@@ -132,9 +132,9 @@ categories: Training
 
 ## Section 1: Git Fundamentals
 
-# Module 1: Git Core Concepts
+### Module 1: Git Core Concepts
 
-## 1. Git Fundamentals
+### 1. Git Fundamentals
 
 [Git basics](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository) provide the foundation for effective data annotation. As you progress through this course, you'll discover Git's pivotal role in all 60 modules. A solid understanding of Git's underlying model ensures traceable changes to your knowledge base, enabling effective [automation and context setting for AI systems](https://enterprise-knowledge.com/what-software-engineering-can-teach-knowledge-engineers-about-version-control/). Remember that [in intelligent systems, context and data quality are paramount](https://x.com/i/grok/share/P23hgP1gcPEBOIQXcULyLc6aZ).
 
@@ -142,29 +142,29 @@ Moving beyond a superficial understanding of [distributed version control system
 
 Git's advantages extend to handling media and large data files through [Git Large File Storage (LFS)](https://git-lfs.com/), which offers [superior efficiency, usability, and workflow integration](https://x.com/i/grok/share/40t5nhhbQUPcuMitlu6VJHw67). Understanding Git often requires unlearning previous workflows, as [Git's distributed approach has proven superior](https://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows). The industry's [growing preference for Git](https://x.com/i/grok/share/SRC94uRgp7ruJXjr9YwWeR9G2) demonstrates its effectiveness, with [Git LFS increasingly dominating media and large data file management](https://x.com/i/grok/share/40t5nhhbQUPcuMitlu6VJHw67).
 
-## 2. Git Setup
+### 2. Git Setup
 
 Correct initialization is crucial—mistakes during setup may necessitate starting over completely. Take time to understand these fundamental steps to avoid potential complications later.
 
 Proper setup begins with [Git installation](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git), followed by [configuration and initial setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup). You can establish a Git repository by either [cloning an existing one](https://git-scm.com/docs/git-clone) or [initializing a new repository](https://git-scm.com/docs/git-init).
 
-## 3. Basic Git Workflow
+### 3. Basic Git Workflow
 
 The [standard Git workflow](https://github.com/git-guides#getting-started-with-the-git-workflow) involves [staging and committing changes](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository), [viewing commit history](https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History), and [undoing changes when necessary](https://git-scm.com/book/en/v2/Git-Basics-Undoing-Things).
 
 Mastering this workflow creates well-documented, atomic changes that serve as clean waypoints for automation tools. This discipline makes your knowledge store evolution more traceable, understandable, maintainable, and machine-ready.
 
-## 4. Remote Repository Management
+### 4. Remote Repository Management
 
 [Working with remote repositories](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes) involves [cloning](https://github.com/git-guides/git-clone), [fetching](https://git-scm.com/docs/git-fetch), [pulling](https://github.com/git-guides/git-pull), and [pushing](https://github.com/git-guides/git-push). These skills are crucial for automated and AI-assisted tools that require reliable access to complete, current information.
 
-## 5. Git References
+### 5. Git References
 
-Understanding [Git references](https://git-scm.com/book/en/v2/Git-Internals-Git-References) includes knowing what [HEAD is](https://graphite.dev/guides/git-head), how [branches](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell) work (including tools like GitButler), and using [tags](https://git-scm.com/book/en/v2/Git-Basics-Tagging) and [Git aliases](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases).
+Understanding [Git references](https://git-scm.com/book/en/v2/Git-Internals-Git-References) includes knowing [what the HEAD reference is in Git](https://graphite.dev/guides/git-head), how [branches](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell) work (including tools like GitButler), and using [tags](https://git-scm.com/book/en/v2/Git-Basics-Tagging) and [Git aliases](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases).
 
 References provide precise navigation points for humans and automated systems to locate specific states of your knowledge base. These reference points enable AI-assisted tools like [Graphite platform with Diamond](https://graphite.dev/docs/diamond) to process metadata about different revisions, which can [significantly improve team productivity](https://graphite.dev/research/commit-frequency) by optimizing attention and focus.
 
-## 6. Git Internals
+### 6. Git Internals
 
 [Git internals](https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain) cover [low-level plumbing commands](https://medium.com/frontend-canteen/git-plumbing-commands-db5117aa91e0), including [objects](https://git-scm.com/book/en/v2/Git-Internals-Git-Objects), [references](https://git-scm.com/book/en/v2/Git-Internals-Git-References), [packfiles](https://git-scm.com/book/en/v2/Git-Internals-Packfiles), [the refspec](https://git-scm.com/book/en/v2/Git-Internals-The-Refspec), [transfer protocols](https://git-scm.com/book/en/v2/Git-Internals-Transfer-Protocols), [maintenance and data recovery](https://git-scm.com/book/en/v2/Git-Internals-Maintenance-and-Data-Recovery), and [relevant environment variables](https://git-scm.com/book/en/v2/Git-Internals-Environment-Variables).
 
