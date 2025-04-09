@@ -4,13 +4,13 @@ title:  "Data Annotation Fundamentals Course"
 date:   2025-04-07 4:30:00
 categories: Training
 ---
-# Data Annotation Fundamentals Course - Complete 60 Module Syllabus
+# Data Annotation **Fundamentals** Course - Complete 60 Module Syllabus
 
 ## Table of Contents
 
 ### Section 1: Git Fundamentals
 
-- [Module 1: Git Core Concepts](#module-1-git-core-concepts) ... understanding [Git core concepts](https://git-scm.com/book/en/v2) helps us to understand [**why** *everything* is now moving toward Git, Git workflows, Git products](https://x.com/i/grok/share/SRC94uRgp7ruJXjr9YwWeR9G2) and [why Git Large File Storage is now even beginning to dominate in media files and extra large data files](https://x.com/i/grok/share/40t5nhhbQUPcuMitlu6VJHw67).
+- [Module 1: Git Core Concepts](#module-1-git-core-concepts) ... understanding [Git core concepts](https://git-scm.com/book/en/v2) helps us to understand [**why** *everything* is now moving toward Git, Git workflows, Git products](https://x.com/i/grok/share/SRC94uRgp7ruJXjr9YwWeR9G2) and [why Git Large File Storage is now even beginning to dominate ... just as Git began 20 years ago to *eat the world of* software development ... in creative, collaborative work in media files and extra large data files](https://x.com/i/grok/share/40t5nhhbQUPcuMitlu6VJHw67).
 
 - [Module 2: Advanced Git Commands](#module-2-advanced-git-commands)
 
