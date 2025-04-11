@@ -12,6 +12,8 @@ The Singularity we techsters voted for has lost its freakin' head, folks! It's j
 
 I've been TRAINED—no, you could say it's been BEATEN into me, because I WANTED to believe—but I've been conditioned by the GENERALLY ABYSMAL quality of information produced by AI to skim this garbage as fast as it's produced! That's the credence level it deserves until I've personally read it, re-thought it, double-checked it, and basically REWRITTEN THE WHOLE DAMN THING!
 
+However, AI-generated backgrounders do give me ***something*** to *START WITH.*  That is AI value ... the regurgitated shitstorm of cliches that have become so tedious that everybody forgot they mattered.
+
 In other words, AI is FANTASTIC for brainstorming and wild-ass ideation! Absolutely phenomenal! But trust it? ARE YOU KIDDING ME?!
 
 It's pretty good at getting grammar right. Sure! It can revise something in that AI-mimicked "professional tone." It makes headings congruent! WOW, IMPRESSIVE! It can even generate acceptable 1950s Beat poetry! It riffs on scripture! It quotes the classics, re-gurgs the Shakespearean pointlessness of a graduate program in English ... 
