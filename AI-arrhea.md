@@ -4,6 +4,8 @@ title: AI-arrhea
 permalink: /aiarrhea/
 ---
 
+AI-arrhea is THE problem of AI. The best available AI mimic style of well-worn cliches ... and in so doing, robo-produces replicated blizzards of automated ill-digested *shit.* 
+
 ## The Singularity's Biden-esque Crisis
 
 The Singularity we techsters voted for has lost its freakin' head, folks! It's just out there wandering in the weeds, making a MESS in it's trou and will be doing the same for the next couple decades!
@@ -12,7 +14,11 @@ I've been TRAINED—no, you could say it's been BEATEN into me, because I WANTED
 
 In other words, AI is FANTASTIC for brainstorming and wild-ass ideation! Absolutely phenomenal! But trust it? ARE YOU KIDDING ME?!
 
-It's pretty good at getting grammar right. Sure! It can revise something in that AI-mimicked "professional tone." It makes headings congruent! WOW, IMPRESSIVE! It can even generate acceptable 1950s Beat poetry! It riffs on scripture! It quotes the classics, re-gurgs the Shakespearean pointlessness of a graduate program in English ... because it mimics style of well-worn cliches! In programming, it can find missing punctuation or impossible-for-humans-to-see bugs in text to get syntax to compile! But can it be trusted with refactoring, architecture, engineering, and algorithmic thinking? HELL NO! But it CAN mimic the SOUND of those things and fool the imbeciles!
+It's pretty good at getting grammar right. Sure! It can revise something in that AI-mimicked "professional tone." It makes headings congruent! WOW, IMPRESSIVE! It can even generate acceptable 1950s Beat poetry! It riffs on scripture! It quotes the classics, re-gurgs the Shakespearean pointlessness of a graduate program in English ... 
+
+... **because AI mimics style of well-worn cliches!**  *If we glance at it REALLY QUICKLY, without really looking at it, AI output *appears* to look like it might work, BUT ...*
+
+In programming, it can find missing punctuation or impossible-for-humans-to-see bugs in text to get syntax to compile! But can AI be trusted with refactoring, architecture, engineering, and algorithmic thinking? HELL NO! But it CAN mimic the SOUND of those things and fool the imbeciles!
 
 # 100 Major Recent Developments in AI Engineering & Data Annotation
 
