@@ -27,12 +27,12 @@ This lab will involve hands-on exploration and critical comparison to help you c
 Before diving in, let's clarify some key concepts:
 
 * **Knowledge Engineering:** The process of building and maintaining knowledge-based systems. In our case, it involves structuring data from different domains and representing the relationships between them, often using graph structures.  
-* **Graph Databases & Coding:** Databases optimized for storing and querying relationships (e.g., Neo4j, ArangoDB \[18\]). Graph coding involves writing queries (e.g., Cypher, AQL) and logic to manipulate and visualize this connected data.  
+* **Graph Databases & Coding:** Databases optimized for storing and querying relationships (e.g., Neo4j, ArangoDB [18](https://arangodb.com/category/graphs/)). Graph coding involves writing queries (e.g., Cypher, AQL) and logic to manipulate and visualize this connected data.  
 * **Collaborative Coding:**  
-  * **Social Coding:** Using platforms and tools for shared ideation, discussion, and problem-solving around code (e.g., GitHub discussions, integrated chat/canvas features) \[22\].  
+  * **Social Coding:** Using platforms and tools for shared ideation, discussion, and problem-solving around code (e.g., GitHub discussions, integrated chat/canvas features) [22](https://medium.com/@mfahad1667/social-coding-6eaa4e7dd2ed).  
   * **Peer Coding:** Real-time collaborative editing of the same codebase, often with shared cursors and debugging sessions (e.g., VS Code Live Share, Firebase Studio's real-time collaboration).  
-  * **Branch Coding:** Utilizing version control branching strategies (like Gitflow or task-oriented models) to manage parallel development, experiments, and features \[45\]. GitButler introduces concepts like *virtual branches* to streamline this \[5, 12\].  
-* **AI-Assisted Development:** Using AI tools integrated into the IDE to assist with code generation, completion, debugging, testing, documentation, and even design (e.g., Gemini Code Assist \[1, 2, 13\], GitHub Copilot, Cursor).  
+  * **Branch Coding:** Utilizing version control branching strategies (like Gitflow or task-oriented models) to manage parallel development, experiments, and features [45](https://nulab.com/learn/software-development/version-control-best-practices/). GitButler introduces concepts like *virtual branches* to streamline this [5](https://docs.gitbutler.com/features/virtual-branches/overview), [12](https://gitbutler.com/).  
+* **AI-Assisted Development:** Using AI tools integrated into the IDE to assist with code generation, completion, debugging, testing, documentation, and even design (e.g., Gemini Code Assist [1](https://cloud.google.com/gemini/docs/codeassist/write-code-gemini), [2](https://cloud.google.com/gemini/docs/codeassist/overview), [13](https://developers.google.com/gemini-code-assist/docs/overview), GitHub Copilot, Cursor).  
 * **Vibe Coding:** An informal term suggesting a more intuitive, exploratory, and creative coding process, often facilitated by AI tools that can interpret high-level ideas or desired "vibes" and translate them into code.
 
 ## **The Knowledge Engineering Challenge: Cross-Domain Visualization**
@@ -46,11 +46,11 @@ Our hypothetical project involves creating a tool similar to "Connected Papers" 
 **Project Requirements:**
 
 * **Data Handling:** Ingest, process, and integrate diverse data formats (structured, unstructured, geospatial, graph).  
-* **Graph Modeling:** Represent entities (crops, tracks, scans) and relationships (e.g., "similar mood," "grown in same region," "associated diagnosis") effectively, likely using a graph database like ArangoDB \[18\] or potentially extending PostgreSQL \[e.g., with pgRouting\].  
+* **Graph Modeling:** Represent entities (crops, tracks, scans) and relationships (e.g., "similar mood," "grown in same region," "associated diagnosis") effectively, likely using a graph database like ArangoDB [18](https://arangodb.com/category/graphs/) or potentially extending PostgreSQL [e.g., with pgRouting].  
 * **Visualization:** Develop an interactive frontend (e.g., using D3.js) to render the knowledge graph, allowing users to explore connections dynamically.  
 * **Collaboration:** Enable a team with diverse expertise (agronomist, musicologist, medical researcher, developer) to contribute effectively.  
 * **AI Integration:** Leverage AI for suggesting potential cross-domain links, optimizing queries, and speeding up development.  
-* **Scalability & Portability:** Ensure the solution can scale and that the core logic/data can potentially be migrated to other platforms (Azure, AWS) if needed \[37, 28\].
+* **Scalability & Portability:** Ensure the solution can scale and that the core logic/data can potentially be migrated to other platforms (Azure, AWS) if needed [37](https://www.reddit.com/r/Firebase/comments/oibgtp/firebase_and_vendor_lockin/), [28](https://www.indiehackers.com/post/why-would-you-not-use-firebase-2f5e49dcfc).
 
 ## **Development Environment Deep Dive**
 
@@ -58,24 +58,24 @@ Let's examine the primary contenders for our project.
 
 ### **1\. Firebase Studio \+ Google Cloud Platform (GCP)**
 
-* **Overview:** A relatively new, web-based IDE from Google designed for full-stack development, particularly AI-powered applications, tightly integrated with Firebase and GCP services \[7, 8, 11\].  
-* **AI Assistance:** Features integrated **Gemini 2.5 Pro/Flash** \[20, 21, 49\] for code generation, explanation, debugging, commit messages, PR descriptions, and more \[39\]. Includes a "Canvas" for visual ideation and agentic chat.  
+* **Overview:** A relatively new, web-based IDE from Google designed for full-stack development, particularly AI-powered applications, tightly integrated with Firebase and GCP services [7](https://firebase.google.com/docs/studio), [8](https://firebase.google.com/docs/studio/get-started), [11](https://firebase.blog/posts/2025/04/introducing-firebase-studio/).  
+* **AI Assistance:** Features integrated **Gemini 2.5 Pro/Flash** [20](https://cloud.google.com/vertex-ai/generative-ai/docs/models/gemini/2-5-pro), [21](https://cloud.google.com/blog/products/ai-machine-learning/gemini-2-5-pro-flash-on-vertex-ai), [49](https://developers.googleblog.com/en/gemini-2-5-flash-pro-live-api-veo-2-gemini-api/) for code generation, explanation, debugging, commit messages, PR descriptions, and more [39](https://firebase.google.com/docs/studio/ai-assistance). Includes a "Canvas" for visual ideation and agentic chat.  
 * **Collaboration:** Offers real-time peer coding (like Google Docs), integrated chat, and the Canvas for social coding/brainstorming.  
-* **Graph Coding:** Gemini can assist in generating graph database queries (e.g., AQL for ArangoDB) and visualization code (e.g., D3.js). Integration with GCP services like BigQuery \[3\] or Cloud Functions facilitates data pipelines for the graph.  
-* **Git Integration:** Embedded Git client for branching, committing, and PRs within the IDE \[7\]. Syncs with external repositories (GitHub, GitLab). Gemini assists with commit messages and PR descriptions.  
-* **Ecosystem & Hosting:** Native integration with Firebase Hosting \[38\] for web apps, Cloud Functions for backend logic, and other GCP services (e.g., Vertex AI \[17\], Cloud Workstations \[4\]).  
-* **Portability:** While integrated with GCP, code (e.g., Node.js, Python, React) and Git history are standard. Firebase configuration files are specific but can be replaced for other platforms. Syncing to GitHub is key for portability \[37\].  
+* **Graph Coding:** Gemini can assist in generating graph database queries (e.g., AQL for ArangoDB) and visualization code (e.g., D3.js). Integration with GCP services like BigQuery [3](https://cloud.google.com/vertex-ai-notebooks) or Cloud Functions facilitates data pipelines for the graph.  
+* **Git Integration:** Embedded Git client for branching, committing, and PRs within the IDE [7](https://firebase.google.com/docs/studio). Syncs with external repositories (GitHub, GitLab). Gemini assists with commit messages and PR descriptions.  
+* **Ecosystem & Hosting:** Native integration with Firebase Hosting [38](https://firebase.google.com/docs/app-hosting) for web apps, Cloud Functions for backend logic, and other GCP services (e.g., Vertex AI [17](https://cloud.google.com/vertex-ai/docs/workbench/introduction), Cloud Workstations [4](https://cloud.google.com/workstations)).  
+* **Portability:** While integrated with GCP, code (e.g., Node.js, Python, React) and Git history are standard. Firebase configuration files are specific but can be replaced for other platforms. Syncing to GitHub is key for portability [37](https://www.reddit.com/r/Firebase/comments/oibgtp/firebase_and_vendor_lockin/).  
 * **Pros for Project:** All-in-one cloud environment simplifies setup; strong AI integration (Gemini) aids coding and ideation; excellent real-time collaboration features; Canvas is good for social coding across domains; seamless deployment via Firebase Hosting.  
-* **Cons for Project:** Being web-based might feel limiting for some; Git integration is functional but less powerful than dedicated clients or VS Code extensions; reliance on Gemini means its quality directly impacts productivity; ecosystem lock-in potential if not managed carefully \[28, 37\].
+* **Cons for Project:** Being web-based might feel limiting for some; Git integration is functional but less powerful than dedicated clients or VS Code extensions; reliance on Gemini means its quality directly impacts productivity; ecosystem lock-in potential if not managed carefully [28](https://www.indiehackers.com/post/why-would-you-not-use-firebase-2f5e49dcfc), [37](https://www.reddit.com/r/Firebase/comments/oibgtp/firebase_and_vendor_lockin/).
 
 ### **2\. VS Code \+ GitHub Copilot (+ Azure/AWS)**
 
 * **Overview:** The dominant open-source desktop code editor, highly extensible, often paired with GitHub Copilot for AI assistance. Can be configured to work seamlessly with any cloud platform (Azure, AWS, GCP).  
 * **AI Assistance:** **GitHub Copilot** (powered by OpenAI models like GPT-4o) provides inline code suggestions, chat-based assistance, and code explanation. Can be augmented with other AI tools and extensions (e.g., Claude models via plugins).  
 * **Collaboration:** **Live Share** extension enables real-time peer coding, shared debugging, and terminals. Social coding typically happens via integrated GitHub features (Discussions, Issues, PRs).  
-* **Graph Coding:** Excellent support through extensions for various graph databases (Neo4j, ArangoDB \[18\]) and visualization libraries (D3.js). Copilot provides strong context-aware suggestions for queries and visualization code.  
-* **Git Integration:** Best-in-class Git support via built-in features and extensions like **GitLens**. Highly compatible with **GitButler** \[6, 12\] for advanced, task-oriented branch management. Full control over complex Git workflows.  
-* **Ecosystem & Hosting:** Platform-agnostic. Integrates deeply with Azure (via Azure extensions), AWS (AWS Toolkit), and GCP (Cloud Code \[1\]). Deployments target specific cloud services (e.g., Azure App Service, AWS Amplify/ECS, GCP Cloud Run).  
+* **Graph Coding:** Excellent support through extensions for various graph databases (Neo4j, ArangoDB [18](https://arangodb.com/category/graphs/)) and visualization libraries (D3.js). Copilot provides strong context-aware suggestions for queries and visualization code.  
+* **Git Integration:** Best-in-class Git support via built-in features and extensions like **GitLens**. Highly compatible with **GitButler** [6](https://github.com/gitbutlerapp/gitbutler), [12](https://gitbutler.com/) for advanced, task-oriented branch management. Full control over complex Git workflows.  
+* **Ecosystem & Hosting:** Platform-agnostic. Integrates deeply with Azure (via Azure extensions), AWS (AWS Toolkit), and GCP (Cloud Code [1](https://cloud.google.com/gemini/docs/codeassist/write-code-gemini)). Deployments target specific cloud services (e.g., Azure App Service, AWS Amplify/ECS, GCP Cloud Run).  
 * **Portability:** Highly portable workflow. Skills and configurations transfer easily between cloud platforms.  
 * **Pros for Project:** Maximum flexibility and extensibility; mature ecosystem for graph databases and visualization; powerful Git integration (especially with GitLens/GitButler); Copilot offers robust AI assistance; platform-agnostic, ensuring portability; strong offline capabilities.  
 * **Cons for Project:** Requires more setup and configuration than Firebase Studio; collaboration via Live Share is excellent but less integrated than Studio's native feel; social coding/ideation requires switching to external tools (GitHub, Miro etc.); AI assistance is primarily code-focused, less on visual ideation like Canvas.
@@ -86,7 +86,7 @@ Let's examine the primary contenders for our project.
 * **AI Assistance:** Features like "Chat with your codebase," "Edit in natural language," and generating code from prompts are central. Aims for a more conversational and context-aware AI interaction than standard Copilot.  
 * **Collaboration:** Relies primarily on VS Code's Live Share for peer coding. Social coding is external.  
 * **Graph Coding:** Leverages its strong AI models to generate graph queries and visualization code. Benefits from VS Code's extension compatibility.  
-* **Git Integration:** Inherits VS Code's robust Git capabilities, compatible with GitLens and GitButler \[6, 12\]. AI can assist with commit messages.  
+* **Git Integration:** Inherits VS Code's robust Git capabilities, compatible with GitLens and GitButler [6](https://github.com/gitbutlerapp/gitbutler), [12](https://gitbutler.com/). AI can assist with commit messages.  
 * **Ecosystem & Hosting:** Platform-agnostic like VS Code. Deploys to any cloud.  
 * **Portability:** High portability, similar to VS Code.  
 * **Pros for Project:** Potentially superior AI assistance for complex code generation and refactoring tasks; intuitive natural language interaction; benefits from VS Code ecosystem.  
@@ -94,12 +94,12 @@ Let's examine the primary contenders for our project.
 
 ### **4\. GitButler Principles (Workflow Enhancement)**
 
-* **Overview:** GitButler \[12\] is a Git client aiming to simplify workflows, particularly for managing multiple tasks concurrently using *virtual branches* \[5, 14\]. Even without using the tool directly, its principles can enhance our workflow in any IDE.  
+* **Overview:** GitButler [12](https://gitbutler.com/) is a Git client aiming to simplify workflows, particularly for managing multiple tasks concurrently using *virtual branches* [5](https://docs.gitbutler.com/features/virtual-branches/overview), [14](https://github.com/gitbutlerapp/gitbutler-docs/blob/main/content/docs/features/virtual-branches/butler-flow.mdx). Even without using the tool directly, its principles can enhance our workflow in any IDE.  
 * **Key Principles:**  
   * **Task-Oriented Branching:** Create branches for specific features or fixes (e.g., feature/add-crop-nodes, fix/music-query-perf).  
-  * **Virtual Branches / Work Isolation:** Work on multiple tasks simultaneously in the same working directory, committing changes selectively to their respective task branches \[5\]. This reduces context switching and prevents unrelated changes from mixing.  
-  * **Intent-Driven Commits:** Write clear commit messages explaining the *purpose* of the change, not just the *what* \[50\]. AI can help formulate these.  
-  * **Simplified Workflow:** Focus on the task, let the tool manage Git complexities (e.g., staging, committing relevant parts) \[16, 46\].  
+  * **Virtual Branches / Work Isolation:** Work on multiple tasks simultaneously in the same working directory, committing changes selectively to their respective task branches [5](https://docs.gitbutler.com/features/virtual-branches/overview). This reduces context switching and prevents unrelated changes from mixing.  
+  * **Intent-Driven Commits:** Write clear commit messages explaining the *purpose* of the change, not just the *what* [50](https://docs.gitbutler.com/features/virtual-branches/commits). AI can help formulate these.  
+  * **Simplified Workflow:** Focus on the task, let the tool manage Git complexities (e.g., staging, committing relevant parts) [16](https://blog.gitbutler.com/gitbutlers-new-patch-based-code-review/), [46](https://blog.gitbutler.com/interdiff-review-with-git-range-diff/).  
 * **Application in Our Project:** These principles are highly relevant for managing parallel work across agriculture, music, and medical domains. We can apply them within Firebase Studio's or VS Code's Git interface by:  
   * Naming branches clearly by task/intent.  
   * Being disciplined about committing only changes relevant to the current task branch.  
@@ -127,7 +127,7 @@ Given the project's collaborative and cross-domain nature, starting with **Fireb
 **Workflow Steps:**
 
 1. **Setup (Firebase Studio & GitHub):**  
-   * Create a Firebase Studio workspace for the "CrossDomainGraph" project \[8\].  
+   * Create a Firebase Studio workspace for the "CrossDomainGraph" project [8](https://firebase.google.com/docs/studio/get-started).  
    * Initialize a Git repository within Studio.  
    * Create a corresponding empty repository on GitHub.  
    * Configure Studio's Git to sync with the GitHub repository (this is the key to portability). main branch is the stable base.  
@@ -152,7 +152,7 @@ Given the project's collaborative and cross-domain nature, starting with **Fireb
    * Team members review the code directly in Studio.  
    * Merge the PR once approved. Studio's UI handles the merge. The merge commit also syncs to GitHub.  
 6. **Deployment & Iteration:**  
-   * Deploy the main branch frontend to Firebase Hosting directly from Studio \[38\].  
+   * Deploy the main branch frontend to Firebase Hosting directly from Studio [38](https://firebase.google.com/docs/app-hosting).  
    * Gather feedback, use Canvas/Chat for discussion.  
    * Create new task branches for fixes or features (e.g., fix/graph-zoom, feature/scan-annotation-display).  
    * Repeat the commit \-\> PR \-\> merge \-\> deploy cycle.  
@@ -167,7 +167,7 @@ Given the project's collaborative and cross-domain nature, starting with **Fireb
 Your task is to gain hands-on experience with Firebase Studio and collaborative, AI-assisted, branch-based workflows.
 
 1. **Setup & Familiarization:**  
-   * Access Firebase Studio \[7, 8\]. Create a new project workspace.  
+   * Access Firebase Studio [7](https://firebase.google.com/docs/studio), [8](https://firebase.google.com/docs/studio/get-started). Create a new project workspace.  
    * Initialize Git within the workspace. Create a repository on GitHub and configure Studio to push/pull from it.  
    * Explore the IDE layout: editor, file tree, terminal, Git pane, Canvas, Chat (Gemini).  
 2. **Schema Ideation (Social Coding):**  
@@ -256,6 +256,7 @@ By understanding the strengths and weaknesses of each approach and maintaining p
 49. Google Developers Blog. (n.d.). *Gemini 2.5 Flash and Pro, Live API, and Veo 2 in the Gemini API*. Retrieved April 11, 2025, from [https://developers.googleblog.com/en/gemini-2-5-flash-pro-live-api-veo-2-gemini-api/](https://developers.googleblog.com/en/gemini-2-5-flash-pro-live-api-veo-2-gemini-api/)  
 50. GitButler Docs. (n.d.). *Commits \- Virtual Branches*. Retrieved April 11, 2025, from [https://docs.gitbutler.com/features/virtual-branches/commits](https://docs.gitbutler.com/features/virtual-branches/commits)  
 51. Google for Developers. (n.d.). *Set up Gemini Code Assist Standard and Enterprise*. Retrieved April 11, 2025, from [https://developers.google.com/gemini-code-assist/docs/set-up-gemini-standard-enterprise](https://developers.google.com/gemini-code-assist/docs/set-up-gemini-standard-enterprise)
+
 
 
 
