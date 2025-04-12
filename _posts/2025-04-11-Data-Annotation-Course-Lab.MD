@@ -9,7 +9,9 @@ categories: Training
 
 Welcome to the practical lab session for our Data Annotation course. In this lab, we will explore and compare modern development environments, focusing on **Firebase Studio** within the Google Cloud Platform (GCP) ecosystem, and contrasting it with alternatives like **Visual Studio Code (VS Code) paired with GitHub Copilot**, and the AI-native editor **Cursor**.
 
-Our goal is to evaluate these tools for a specific **knowledge engineering project**: building a collaborative data visualization tool that maps connections across diverse domains like agriculture (soil/yield data), music (ambient tracks in film), and medical imaging (body/brain scans).
+TL;DR. VScode easily beats a remote service like Firebase Studio for a user, but this lab is really a meta-thing, ie it's really about understanding how Firebase Studio works under the hood, and how we would add in GitButler's approach and build [a gameified collaborative development environment](https://github.com/FARTSlive).
+
+Our goal is to evaluate these tools for a specific **knowledge engineering project**: building a **collaborative** data visualization tools that help users maps connections, ie annotations that represent comments, questions, suggestions, various hot takes, and other forms of connection/relationship etc,  across diverse domains like agriculture (soil/yield data), music (ambient tracks in film), and medical imaging (body/brain scans).
 
 We will assess these environments based on:
 
