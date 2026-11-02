@@ -5,9 +5,11 @@
   "repository": "git@github.com:foambubble/foam.git",
   "author": "Jani Eväkallio <jani.evakallio@gmail.com>",
   "license": "MIT",
-  "private": "true",
-  "workspaces": ["packages/*"],
+  "workspaces": [
+    "packages/*"
+  ],
   "scripts": {
     "watch": "yarn workspace foam-vscode watch"
-  }
+  },
+  "packageManager": "yarn@4.18.0"
 }
