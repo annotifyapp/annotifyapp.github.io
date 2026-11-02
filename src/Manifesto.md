@@ -1,6 +1,6 @@
 ***The best way to catch up is my CURRENT thinking captured in [the daily journal](https://markbruns.github.io/Journal.html) ... OR my [microblogging on X](https://x.com/MarkBruns) ... OR my [Gist of Gists](https://gist.github.com/MarkBruns/4b3290aaff421f167b8e47ee59c7b25b)***  
 
-*Hopefully, I'll be upping my game to a more agentic version of this second brain.*
+*Hopefully, I'll be [moving this BASB to Cloudfare](https://markbruns-github-io.markbruns.workers.dev/) as part of a larger plan to up my game to a more agentic version of this second brain.*
 
 *My plan is to update this page on a roughly monthly basis ... this plan currently NEEDS refactoring in order to be ready for September.*
 
