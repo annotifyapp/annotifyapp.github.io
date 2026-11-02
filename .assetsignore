@@ -1,3 +1,14 @@
 package.json
 yarn.lock
-node_modules
+.yarn/
+.yarnrc.yml
+node_modules/
+wrangler.toml
+.git/
+.github/
+.gitignore
+.husky/
+tsconfig.json
+*.ts
+*.tsx
+src/
