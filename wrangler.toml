@@ -1,0 +1,5 @@
+name = "markbruns-github-io"
+compatibility_date = "2026-11-02"
+
+[assets]
+directory = "./"
