@@ -2,15 +2,21 @@
 
 **A public working record of one life being rebuilt on purpose — prayerfully, in the open, one commit at a time.**
 
-This site is not a portfolio and not a blog. It is the operating record of a personal knowledge system: the disciplines I hold, the questions I am working, the tools I am building, and the reading that made them necessary. Everything here is open source because hard-won insight that stays private is wasted insight.
+This site is not a portfolio and not a blog. It is more of a lab notebook or the operating record of a personal knowledge system. It is about ideas, articulating something about the disciplines I hold, the questions I am working, the tools I am building, and the reading that made them necessary. Everything here is open source because hard-won insight that stays private is wasted insight.
 
 ---
 
 ## Why This Exists
 
-I am grateful for a life I did not earn. That gratitude is not a mood; it is a method. It sets the standard for how I spend attention, what I refuse to accumulate, and how quickly I abandon a habit that has stopped paying for itself.
+I am grateful for a life I did not earn. That gratitude is not a mood; it is more than a method -- it is a discipline, a standard, a requirement. I want nothing to do with ungrateful people. 
 
-The practical consequence is a bias toward building rather than discussing. Ideas are cheap and plentiful. What is scarce is the discipline to test an idea under real conditions, publish the result, and rebuild when the result is bad. That is the whole method: **learn, build, validate, refactor, publish, repeat.**
+Gratitude sets the standard for how I spend attention, what I refuse to accumulate, and how quickly I abandon a habit that has stopped paying for itself.
+
+The practical consequence of knowledge management is a heavy bias toward building rather than discussing ... why does knowledge matter, why does it have ANY value? 
+
+Better and better ideas are cheaper, more plentiful than ever -- there's no excuse for not implementing and doing hard things.  Spectator activities, eg watching movies or sports, are fine for the developmental disabled and people being warehoused in nursing homes until they die. 
+
+What is scarce is the discipline to test an idea under real conditions, publish the result, and rebuild when the result is bad. That is the whole method: **learn, build, validate, refactor, publish, repeat.**
 
 ---
 
@@ -53,6 +59,6 @@ I would rather be corrected than admired.
 
 I am open to conversation with people building practical personal knowledge engineering, agentic operations tooling, industrial improvement systems, or community-scale self-reliance.
 
-Bring something written. A paragraph describing the problem, the constraint, and what you have already tried is worth more than an hour of unstructured conversation — yours or mine. If our paths align in service to Christ and the empowerment of free people, we should meet. Preferably in the garden, the gym, or on the mat.
+Ideally bring the minimal viable prototype to demonstrate -- otherwise, bring something written, something thought through. A paragraph describing the problem, the constraint, and what you have already tried is worth more than an hour of unstructured conversation — yours or mine. If our paths align in service to Christ and the empowerment of free people, we should meet. Preferably in the garden, the gym, or on the mat.
 
 *Train. Be able. Live voluntarily.*
