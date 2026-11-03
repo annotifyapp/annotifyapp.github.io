@@ -1,4 +1,8 @@
-## Daily Journal HIGHLIGHTS
+* [2026-11-03](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-11-03.md) ... using pi.dev, Cloudfare, OpenRouter, LangSmith, Nous Research Portal
+* [2026-11-02](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-11-02.md) ... trading intelligence gathering -- why there's so much demand for compute
+* [2026-11-01](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-11-01.md) ... November is for improving agentic harness engineering skills
+
+## PREVIOUS Daily Journal Archives
 
 * [Reliable, Self-Improving Multi-Agent Neuro-BASB Ecosystems](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-08-22.md)
 * [Hermes Polyglot Orchestrator](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-06-30.md)
