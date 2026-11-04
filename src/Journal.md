@@ -1,3 +1,5 @@
+* [2026-11-04](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-11-04.md) ...  WTF is [Yarn](https://yarnpkg.com/) and why does it matter for understanding CI/CD pipelines and telemetry or this agentic BASB
+
 * [2026-11-03](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-11-03.md) ... using pi.dev, Cloudfare, OpenRouter, LangSmith, Nous Research Portal
 * [2026-11-02](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-11-02.md) ... trading intelligence gathering -- why there's so much demand for compute
 * [2026-11-01](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-11-01.md) ... November is for improving agentic harness engineering skills
