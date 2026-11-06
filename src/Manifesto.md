@@ -1,6 +1,6 @@
 *We think about how our multi-agent intelligence gathering harness thinks ... therefore* ***WE ARE!***
 
-# We are not BORN smart, we GET smart.
+# We were not BORN smart, we were created with the ability to LEARN.
 
 ***Rewiring the brain or overcoming the stupid habits and tendencies of being ourselves requires learning ... learning cannot happen without PAIN ... and rumination on that PAIN, ie "Ouch, that hurt. But what is the root cause for WHY did that hurt? What do I need to change in my system in order to LEARN.***
 
