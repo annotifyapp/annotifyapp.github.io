@@ -1,10 +1,14 @@
-*I think about how my multi-agent intelligence gathering harness thinks ... therefore I am.* ***WE ARE!***
+*We think about how our multi-agent intelligence gathering harness thinks ... therefore* ***WE ARE!***
 
-# We are not BORN smart, we GET smart ... ***and that ain't easy.***
+# We are not BORN smart, we GET smart.
 
-Being human is about learning the lessons from other humans, in order to become THE Giant.
+***Rewiring the brain, overcome the stupid habits and tendencies of being ourselves requires PAIN ... and rumination on PAIN, ie "Ouch, but WHY did that hurt? What do I need to change in my system.***
 
-*NEVER EVER TRUST the kind of imbeciles who think that they must do it all themselves.*
+Being human is about learning the lessons from other humans, in order to become the ***INTELLIGENT*** Giant ... rather than the clumsy, slow-moving monster oaf.
+
+*NEVER EVER TRUST the kind of imbeciles who think that they must or can do it all themselves.*
+
+---
 
 We learn some things from our failures, but we learn MORE rapidly, MORE efficiently from carefully, shrewdly ruminating on the lessons learned by others ... it is true that learning from our own small failures in doing hard things helps to understand the lessons that are being learned by others ... but we need to aggressively gather intelligence, especially on what is not quite working as well as it could.
 
