@@ -2,6 +2,8 @@
 
 # We were not BORN smart, we were created with the ability to LEARN.
 
+*The FIRST of first principles involves think about what LEARNING is ... rather than react like prey animals, we need to slow down and process, to think about how we learn, to think carefully about what are we supposed to learn from the lesson in front of us. IDIOTS REACT ... prey animals ALWAYS overreact ... it's important to not give in to tendencies toward simplistic reaction!*  **If you can't master this FIRST of first principles, your reactions are going to kill you.**
+
 ***Rewiring the brain or overcoming the stupid habits and tendencies of being ourselves requires learning ... learning cannot happen without PAIN ... and rumination on that PAIN, ie "Ouch, that hurt. But what is the root cause for WHY did that hurt? What do I need to change in my system in order to LEARN.***
 
 Being human is about learning the lessons from other humans, in order to become the ***INTELLIGENT*** Giant ... rather than the clumsy, slow-moving monster *proprietary* or *governmental* clumsy oaf.
