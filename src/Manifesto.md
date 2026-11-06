@@ -2,11 +2,11 @@
 
 # We are not BORN smart, we GET smart.
 
-***Rewiring the brain, overcome the stupid habits and tendencies of being ourselves requires PAIN ... and rumination on PAIN, ie "Ouch, but WHY did that hurt? What do I need to change in my system.***
+***Rewiring the brain or overcoming the stupid habits and tendencies of being ourselves requires learning ... learning cannot happen without PAIN ... and rumination on that PAIN, ie "Ouch, that hurt. But what is the root cause for WHY did that hurt? What do I need to change in my system in order to LEARN.***
 
-Being human is about learning the lessons from other humans, in order to become the ***INTELLIGENT*** Giant ... rather than the clumsy, slow-moving monster oaf.
+Being human is about learning the lessons from other humans, in order to become the ***INTELLIGENT*** Giant ... rather than the clumsy, slow-moving monster *proprietary* or *governmental* clumsy oaf.
 
-*NEVER EVER TRUST the kind of imbeciles who think that they must or can do it all themselves.*
+*NEVER EVER TRUST the kind of imbeciles who think that they must or can do it all themselves.* It's even more important to avoid idiots who simply trust that somebody else can take their pain away.
 
 ---
 
